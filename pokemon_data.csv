@@ -1,0 +1,1204 @@
+Name,Generation,Weight,Height,Type1,Type2,Ability1,Ability2,Ability_Hidden,Category,Mega_Evolution_Flag,Total,Type_Combo,Type_count,Ability_Combo,Ability_count
+Bulbasaur,1,6.9,0.7,Grass,Poison,Overgrow,,Chlorophyll,Ordinary,No,318,"Grass,Poison",2,Overgrow,1
+Ivysaur,1,13.0,1.0,Grass,Poison,Overgrow,,Chlorophyll,Ordinary,No,405,"Grass,Poison",2,Overgrow,1
+Venusaur,1,100.0,2.0,Grass,Poison,Overgrow,,Chlorophyll,Ordinary,No,525,"Grass,Poison",2,Overgrow,1
+Mega Venusaur,1,155.5,2.4,Grass,Poison,Thick Fat,,No,Ordinary,Yes,625,"Grass,Poison",2,Thick Fat,1
+Charmander,1,8.5,0.6,Fire,,Blaze,,Solar Power,Ordinary,No,309,No,1,Blaze,1
+Charmeleon,1,19.0,1.1,Fire,,Blaze,,Solar Power,Ordinary,No,405,No,1,Blaze,1
+Charizard,1,90.5,1.7,Fire,Flying,Blaze,,Solar Power,Ordinary,No,534,"Fire,Flying",2,Blaze,1
+Mega Charizard X,1,110.5,1.7,Fire,Dragon,Tough Claws,,No,Ordinary,Yes,634,"Dragon,Fire",2,Tough Claws,1
+Mega Charizard Y,1,100.5,1.7,Fire,Flying,Drought,,No,Ordinary,Yes,634,"Fire,Flying",2,Drought,1
+Squirtle,1,9.0,0.5,Water,,Torrent,,Rain Dish,Ordinary,No,314,No,1,Torrent,1
+Wartortle,1,22.5,1.0,Water,,Torrent,,Rain Dish,Ordinary,No,405,No,1,Torrent,1
+Blastoise,1,85.5,1.6,Water,,Torrent,,Rain Dish,Ordinary,No,530,No,1,Torrent,1
+Mega Blastoise,1,101.1,1.6,Water,,Mega Launcher,,No,Ordinary,Yes,630,No,1,Mega Launcher,1
+Caterpie,1,2.9,0.3,Bug,,Shield Dust,,Run Away,Ordinary,No,195,No,1,Shield Dust,1
+Metapod,1,9.9,0.7,Bug,,Shed Skin,,No,Ordinary,No,205,No,1,Shed Skin,1
+Butterfree,1,32.0,1.1,Bug,Flying,Compound Eyes,,Tinted Lens,Ordinary,No,395,"Bug,Flying",2,Compound Eyes,1
+Weedle,1,3.2,0.3,Bug,Poison,Shield Dust,,Run Away,Ordinary,No,195,"Bug,Poison",2,Shield Dust,1
+Kakuna,1,10.0,0.6,Bug,Poison,Shed Skin,,No,Ordinary,No,205,"Bug,Poison",2,Shed Skin,1
+Beedrill,1,29.5,1.0,Bug,Poison,Swarm,,Sniper,Ordinary,No,395,"Bug,Poison",2,Swarm,1
+Mega Beedrill,1,40.5,1.4,Bug,Poison,Adaptability,,No,Ordinary,Yes,495,"Bug,Poison",2,Adaptability,1
+Pidgey,1,1.8,0.3,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Ordinary,No,251,"Flying,Normal",2,"Keen Eye,Tangled Feet",2
+Pidgeotto,1,30.0,1.1,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Ordinary,No,349,"Flying,Normal",2,"Keen Eye,Tangled Feet",2
+Pidgeot,1,39.5,1.5,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Ordinary,No,479,"Flying,Normal",2,"Keen Eye,Tangled Feet",2
+Mega Pidgeot,1,50.5,2.2,Normal,Flying,No Guard,,No,Ordinary,Yes,579,"Flying,Normal",2,No Guard,1
+Rattata,1,3.5,0.3,Normal,,Run Away,Guts,Hustle,Ordinary,No,253,No,1,"Guts,Run Away",2
+Alolan Rattata,7,3.8,0.3,Dark,Normal,Gluttony,Hustle,Thick Fat,Ordinary,No,253,"Dark,Normal",2,"Gluttony,Hustle",2
+Raticate,1,18.5,0.7,Normal,,Run Away,Guts,Hustle,Ordinary,No,413,No,1,"Guts,Run Away",2
+Alolan Raticate,7,25.5,0.7,Dark,Normal,Gluttony,Hustle,Thick Fat,Ordinary,No,413,"Dark,Normal",2,"Gluttony,Hustle",2
+Spearow,1,2.0,0.3,Normal,Flying,Keen Eye,,Sniper,Ordinary,No,262,"Flying,Normal",2,Keen Eye,1
+Fearow,1,38.0,1.2,Normal,Flying,Keen Eye,,Sniper,Ordinary,No,442,"Flying,Normal",2,Keen Eye,1
+Ekans,1,6.9,2.0,Poison,,Intimidate,Shed Skin,Unnerve,Ordinary,No,288,No,1,"Intimidate,Shed Skin",2
+Arbok,1,65.0,3.5,Poison,,Intimidate,Shed Skin,Unnerve,Ordinary,No,448,No,1,"Intimidate,Shed Skin",2
+Pikachu,1,6.0,0.4,Electric,,Static,,Lightning Rod,Ordinary,No,320,No,1,Static,1
+Raichu,1,30.0,0.8,Electric,,Static,,Lightning Rod,Ordinary,No,485,No,1,Static,1
+Alolan Raichu,7,21.0,0.7,Electric,Psychic,Surge Surfer,,No,Ordinary,No,485,"Electric,Psychic",2,Surge Surfer,1
+Sandshrew,1,12.0,0.6,Ground,,Sand Veil,,Sand Rush,Ordinary,No,300,No,1,Sand Veil,1
+Alolan Sandshrew,7,40.0,0.7,Ice,Steel,Snow Cloak,,Slush Rush,Ordinary,No,300,"Ice,Steel",2,Snow Cloak,1
+Sandslash,1,29.5,1.0,Ground,,Sand Veil,,Sand Rush,Ordinary,No,450,No,1,Sand Veil,1
+Alolan Sandslash,7,55.0,1.2,Ice,Steel,Snow Cloak,,Slush Rush,Ordinary,No,450,"Ice,Steel",2,Snow Cloak,1
+Nidoran F,1,7.0,0.4,Poison,,Poison Point,Rivalry,Hustle,Ordinary,No,275,No,1,"Poison Point,Rivalry",2
+Nidorina,1,20.0,0.8,Poison,,Poison Point,Rivalry,Hustle,Ordinary,No,365,No,1,"Poison Point,Rivalry",2
+Nidoqueen,1,60.0,1.3,Poison,Ground,Poison Point,Rivalry,Sheer Force,Ordinary,No,505,"Ground,Poison",2,"Poison Point,Rivalry",2
+Nidoran M,1,9.0,0.5,Poison,,Poison Point,Rivalry,Hustle,Ordinary,No,273,No,1,"Poison Point,Rivalry",2
+Nidorino,1,19.5,0.9,Poison,,Poison Point,Rivalry,Hustle,Ordinary,No,365,No,1,"Poison Point,Rivalry",2
+Nidoking,1,62.0,1.4,Poison,Ground,Poison Point,Rivalry,Sheer Force,Ordinary,No,505,"Ground,Poison",2,"Poison Point,Rivalry",2
+Clefairy,1,7.5,0.6,Fairy,,Cute Charm,Magic Guard,Friend Guard,Ordinary,No,323,No,1,"Cute Charm,Magic Guard",2
+Clefable,1,40.0,1.3,Fairy,,Cute Charm,Magic Guard,Unaware,Ordinary,No,483,No,1,"Cute Charm,Magic Guard",2
+Vulpix,1,9.9,0.6,Fire,,Flash Fire,,Drought,Ordinary,No,299,No,1,Flash Fire,1
+Alolan Vulpix,7,9.9,0.6,Ice,,Snow Cloak,,Snow Warning,Ordinary,No,299,No,1,Snow Cloak,1
+Ninetales,1,19.9,1.1,Fire,,Flash Fire,,Drought,Ordinary,No,505,No,1,Flash Fire,1
+Alolan Ninetales,7,19.9,1.1,Ice,Fairy,Snow Cloak,,Snow Warning,Ordinary,No,505,"Fairy,Ice",2,Snow Cloak,1
+Jigglypuff,1,5.5,0.5,Normal,Fairy,Cute Charm,Competitive,Friend Guard,Ordinary,No,270,"Fairy,Normal",2,"Competitive,Cute Charm",2
+Wigglytuff,1,12.0,1.0,Normal,Fairy,Cute Charm,Competitive,Frisk,Ordinary,No,435,"Fairy,Normal",2,"Competitive,Cute Charm",2
+Zubat,1,7.5,0.8,Poison,Flying,Inner Focus,,Infiltrator,Ordinary,No,245,"Flying,Poison",2,Inner Focus,1
+Golbat,1,55.0,1.6,Poison,Flying,Inner Focus,,Infiltrator,Ordinary,No,455,"Flying,Poison",2,Inner Focus,1
+Oddish,1,5.4,0.5,Grass,Poison,Chlorophyll,,Run Away,Ordinary,No,320,"Grass,Poison",2,Chlorophyll,1
+Gloom,1,8.6,0.8,Grass,Poison,Chlorophyll,,Stench,Ordinary,No,395,"Grass,Poison",2,Chlorophyll,1
+Vileplume,1,18.6,1.2,Grass,Poison,Chlorophyll,,Effect Spore,Ordinary,No,490,"Grass,Poison",2,Chlorophyll,1
+Paras,1,5.4,0.3,Bug,Grass,Effect Spore,Dry Skin,Damp,Ordinary,No,285,"Bug,Grass",2,"Dry Skin,Effect Spore",2
+Parasect,1,29.5,1.0,Bug,Grass,Effect Spore,Dry Skin,Damp,Ordinary,No,405,"Bug,Grass",2,"Dry Skin,Effect Spore",2
+Venonat,1,30.0,1.0,Bug,Poison,Compound Eyes,Tinted Lens,Run Away,Ordinary,No,305,"Bug,Poison",2,"Compound Eyes,Tinted Lens",2
+Venomoth,1,12.5,1.5,Bug,Poison,Shield Dust,Tinted Lens,Wonder Skin,Ordinary,No,450,"Bug,Poison",2,"Shield Dust,Tinted Lens",2
+Diglett,1,0.8,0.2,Ground,,Sand Veil,Arena Trap,Sand Force,Ordinary,No,265,No,1,"Arena Trap,Sand Veil",2
+Alolan Diglett,7,1.0,0.2,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,Ordinary,No,265,"Ground,Steel",2,"Sand Veil,Tangling Hair",2
+Dugtrio,1,33.3,0.7,Ground,,Sand Veil,Arena Trap,Sand Force,Ordinary,No,425,No,1,"Arena Trap,Sand Veil",2
+Alolan Dugtrio,7,66.6,0.7,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,Ordinary,No,425,"Ground,Steel",2,"Sand Veil,Tangling Hair",2
+Meowth,1,4.2,0.4,Normal,,Pickup,Technician,Unnerve,Ordinary,No,290,No,1,"Pickup,Technician",2
+Alolan Meowth,7,4.2,0.4,Dark,,Pickup,Technician,Rattled,Ordinary,No,290,No,1,"Pickup,Technician",2
+Galarian Meowth,8,7.5,0.4,Steel,,Pickup,Tough Claws,Unnerve,Ordinary,No,290,No,1,"Pickup,Tough Claws",2
+Persian,1,32.0,1.0,Normal,,Limber,Technician,Unnerve,Ordinary,No,440,No,1,"Limber,Technician",2
+Alolan Persian,7,33.0,1.1,Dark,,Fur Coat,Technician,Rattled,Ordinary,No,440,No,1,"Fur Coat,Technician",2
+Psyduck,1,19.6,0.8,Water,,Damp,Cloud Nine,Swift Swim,Ordinary,No,320,No,1,"Cloud Nine,Damp",2
+Golduck,1,76.6,1.7,Water,,Damp,Cloud Nine,Swift Swim,Ordinary,No,500,No,1,"Cloud Nine,Damp",2
+Mankey,1,28.0,0.5,Fighting,,Vital Spirit,Anger Point,Defiant,Ordinary,No,305,No,1,"Anger Point,Vital Spirit",2
+Primeape,1,32.0,1.0,Fighting,,Vital Spirit,Anger Point,Defiant,Ordinary,No,455,No,1,"Anger Point,Vital Spirit",2
+Growlithe,1,19.0,0.7,Fire,,Intimidate,Flash Fire,Justified,Ordinary,No,350,No,1,"Flash Fire,Intimidate",2
+Hisuian Growlithe,8,22.7,0.8,Fire,Rock,Intimidate,Flash Fire,Rock Head,Ordinary,No,350,"Fire,Rock",2,"Flash Fire,Intimidate",2
+Arcanine,1,155.0,1.9,Fire,,Intimidate,Flash Fire,Justified,Ordinary,No,555,No,1,"Flash Fire,Intimidate",2
+Hisuian Arcanine,8,168.0,2.0,Fire,Rock,Intimidate,Flash Fire,Rock Head,Ordinary,No,555,"Fire,Rock",2,"Flash Fire,Intimidate",2
+Poliwag,1,12.4,0.6,Water,,Water Absorb,Damp,Swift Swim,Ordinary,No,300,No,1,"Damp,Water Absorb",2
+Poliwhirl,1,20.0,1.0,Water,,Water Absorb,Damp,Swift Swim,Ordinary,No,385,No,1,"Damp,Water Absorb",2
+Poliwrath,1,54.0,1.3,Water,Fighting,Water Absorb,Damp,Swift Swim,Ordinary,No,510,"Fighting,Water",2,"Damp,Water Absorb",2
+Abra,1,19.5,0.9,Psychic,,Synchronize,Inner Focus,Magic Guard,Ordinary,No,310,No,1,"Inner Focus,Synchronize",2
+Kadabra,1,56.5,1.3,Psychic,,Synchronize,Inner Focus,Magic Guard,Ordinary,No,400,No,1,"Inner Focus,Synchronize",2
+Alakazam,1,48.0,1.5,Psychic,,Synchronize,Inner Focus,Magic Guard,Ordinary,No,500,No,1,"Inner Focus,Synchronize",2
+Mega Alakazam,1,48.0,1.2,Psychic,,Trace,,No,Ordinary,Yes,600,No,1,Trace,1
+Machop,1,19.5,0.8,Fighting,,Guts,No Guard,Steadfast,Ordinary,No,305,No,1,"Guts,No Guard",2
+Machoke,1,70.5,1.5,Fighting,,Guts,No Guard,Steadfast,Ordinary,No,405,No,1,"Guts,No Guard",2
+Machamp,1,130.0,1.6,Fighting,,Guts,No Guard,Steadfast,Ordinary,No,505,No,1,"Guts,No Guard",2
+Bellsprout,1,4.0,0.7,Grass,Poison,Chlorophyll,,Gluttony,Ordinary,No,300,"Grass,Poison",2,Chlorophyll,1
+Weepinbell,1,6.4,1.0,Grass,Poison,Chlorophyll,,Gluttony,Ordinary,No,390,"Grass,Poison",2,Chlorophyll,1
+Victreebel,1,15.5,1.7,Grass,Poison,Chlorophyll,,Gluttony,Ordinary,No,490,"Grass,Poison",2,Chlorophyll,1
+Tentacool,1,45.5,0.9,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,Ordinary,No,335,"Poison,Water",2,"Clear Body,Liquid Ooze",2
+Tentacruel,1,55.0,1.6,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,Ordinary,No,515,"Poison,Water",2,"Clear Body,Liquid Ooze",2
+Geodude,1,20.0,0.4,Rock,Ground,Rock Head,Sturdy,Sand Veil,Ordinary,No,300,"Ground,Rock",2,"Rock Head,Sturdy",2
+Alolan Geodude,7,20.3,0.4,Rock,Electric,Magnet Pull,Sturdy,Galvanize,Ordinary,No,300,"Electric,Rock",2,"Magnet Pull,Sturdy",2
+Graveler,1,105.0,1.0,Rock,Ground,Rock Head,Sturdy,Sand Veil,Ordinary,No,390,"Ground,Rock",2,"Rock Head,Sturdy",2
+Alolan Graveler,7,110.0,1.0,Rock,Electric,Magnet Pull,Sturdy,Galvanize,Ordinary,No,390,"Electric,Rock",2,"Magnet Pull,Sturdy",2
+Golem,1,300.0,1.4,Rock,Ground,Rock Head,Sturdy,Sand Veil,Ordinary,No,495,"Ground,Rock",2,"Rock Head,Sturdy",2
+Alolan Golem,7,316.0,1.7,Rock,Electric,Magnet Pull,Sturdy,Galvanize,Ordinary,No,495,"Electric,Rock",2,"Magnet Pull,Sturdy",2
+Ponyta,1,30.0,1.0,Fire,,Run Away,Flash Fire,Flame Body,Ordinary,No,410,No,1,"Flash Fire,Run Away",2
+Galarian Ponyta,8,24.0,0.8,Psychic,,Run Away,Pastel Veil,Anticipation,Ordinary,No,410,No,1,"Pastel Veil,Run Away",2
+Rapidash,1,95.0,1.7,Fire,,Run Away,Flash Fire,Flame Body,Ordinary,No,500,No,1,"Flash Fire,Run Away",2
+Galarian Rapidash,8,80.0,1.7,Psychic,Fairy,Run Away,Pastel Veil,Anticipation,Ordinary,No,500,"Fairy,Psychic",2,"Pastel Veil,Run Away",2
+Slowpoke,1,36.0,1.2,Water,Psychic,Oblivious,Own Tempo,Regenerator,Ordinary,No,315,"Psychic,Water",2,"Oblivious,Own Tempo",2
+Galarian Slowpoke,8,36.0,1.2,Psychic,,Gluttony,Own Tempo,Regenerator,Ordinary,No,315,No,1,"Gluttony,Own Tempo",2
+Slowbro,1,78.5,1.6,Water,Psychic,Oblivious,Own Tempo,Regenerator,Ordinary,No,490,"Psychic,Water",2,"Oblivious,Own Tempo",2
+Galarian Slowbro,8,70.5,1.6,Poison,Psychic,Quick Draw,Own Tempo,Regenerator,Ordinary,No,490,"Poison,Psychic",2,"Own Tempo,Quick Draw",2
+Mega Slowbro,1,120.0,2.0,Water,Psychic,Shell Armor,,No,Ordinary,Yes,590,"Psychic,Water",2,Shell Armor,1
+Magnemite,1,6.0,0.3,Electric,Steel,Magnet Pull,Sturdy,Analytic,Ordinary,No,325,"Electric,Steel",2,"Magnet Pull,Sturdy",2
+Magneton,1,60.0,1.0,Electric,Steel,Magnet Pull,Sturdy,Analytic,Ordinary,No,465,"Electric,Steel",2,"Magnet Pull,Sturdy",2
+Farfetch'd,1,15.0,0.8,Normal,Flying,Keen Eye,Inner Focus,Defiant,Ordinary,No,377,"Flying,Normal",2,"Inner Focus,Keen Eye",2
+Galarian Farfetch'd,8,42.0,0.8,Fighting,,Steadfast,,Scrappy,Ordinary,No,377,No,1,Steadfast,1
+Doduo,1,39.2,1.4,Normal,Flying,Run Away,Early Bird,Tangled Feet,Ordinary,No,310,"Flying,Normal",2,"Early Bird,Run Away",2
+Dodrio,1,85.2,1.8,Normal,Flying,Run Away,Early Bird,Tangled Feet,Ordinary,No,470,"Flying,Normal",2,"Early Bird,Run Away",2
+Seel,1,90.0,1.1,Water,,Thick Fat,Hydration,Ice Body,Ordinary,No,325,No,1,"Hydration,Thick Fat",2
+Dewgong,1,120.0,1.7,Water,Ice,Thick Fat,Hydration,Ice Body,Ordinary,No,475,"Ice,Water",2,"Hydration,Thick Fat",2
+Grimer,1,30.0,0.9,Poison,,Stench,Sticky Hold,Poison Touch,Ordinary,No,325,No,1,"Stench,Sticky Hold",2
+Alolan Grimer,7,42.0,0.7,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,Ordinary,No,325,"Dark,Poison",2,"Gluttony,Poison Touch",2
+Muk,1,30.0,1.2,Poison,,Stench,Sticky Hold,Poison Touch,Ordinary,No,500,No,1,"Stench,Sticky Hold",2
+Alolan Muk,7,52.0,1.0,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,Ordinary,No,500,"Dark,Poison",2,"Gluttony,Poison Touch",2
+Shellder,1,4.0,0.3,Water,,Shell Armor,Skill Link,Overcoat,Ordinary,No,305,No,1,"Shell Armor,Skill Link",2
+Cloyster,1,132.5,1.5,Water,Ice,Shell Armor,Skill Link,Overcoat,Ordinary,No,525,"Ice,Water",2,"Shell Armor,Skill Link",2
+Gastly,1,0.1,1.3,Ghost,Poison,Levitate,,No,Ordinary,No,310,"Ghost,Poison",2,Levitate,1
+Haunter,1,0.1,1.6,Ghost,Poison,Levitate,,No,Ordinary,No,405,"Ghost,Poison",2,Levitate,1
+Gengar,1,40.5,1.5,Ghost,Poison,Cursed Body,,No,Ordinary,No,500,"Ghost,Poison",2,Cursed Body,1
+Mega Gengar,1,40.5,1.4,Ghost,Poison,Shadow Tag,,No,Ordinary,Yes,600,"Ghost,Poison",2,Shadow Tag,1
+Onix,1,210.0,8.8,Rock,Ground,Rock Head,Sturdy,Weak Armor,Ordinary,No,385,"Ground,Rock",2,"Rock Head,Sturdy",2
+Drowzee,1,32.4,1.0,Psychic,,Insomnia,Forewarn,Inner Focus,Ordinary,No,328,No,1,"Forewarn,Insomnia",2
+Hypno,1,75.6,1.6,Psychic,,Insomnia,Forewarn,Inner Focus,Ordinary,No,483,No,1,"Forewarn,Insomnia",2
+Krabby,1,6.5,0.4,Water,,Hyper Cutter,Shell Armor,Sheer Force,Ordinary,No,325,No,1,"Hyper Cutter,Shell Armor",2
+Kingler,1,60.0,1.3,Water,,Hyper Cutter,Shell Armor,Sheer Force,Ordinary,No,475,No,1,"Hyper Cutter,Shell Armor",2
+Voltorb,1,10.4,0.5,Electric,,Soundproof,Static,Aftermath,Ordinary,No,330,No,1,"Soundproof,Static",2
+Hisuian Voltorb,8,13.0,0.5,Electric,Grass,Soundproof,Static,Aftermath,Ordinary,No,330,"Electric,Grass",2,"Soundproof,Static",2
+Electrode,1,66.6,1.2,Electric,,Soundproof,Static,Aftermath,Ordinary,No,490,No,1,"Soundproof,Static",2
+Hisuian Electrode,8,71.0,1.2,Electric,Grass,Soundproof,Static,Aftermath,Ordinary,No,490,"Electric,Grass",2,"Soundproof,Static",2
+Exeggcute,1,2.5,0.4,Grass,Psychic,Chlorophyll,,Harvest,Ordinary,No,325,"Grass,Psychic",2,Chlorophyll,1
+Exeggutor,1,120.0,2.0,Grass,Psychic,Chlorophyll,,Harvest,Ordinary,No,530,"Grass,Psychic",2,Chlorophyll,1
+Alolan Exeggutor,7,415.6,10.9,Grass,Dragon,Frisk,,Harvest,Ordinary,No,530,"Dragon,Grass",2,Frisk,1
+Cubone,1,6.5,0.4,Ground,,Rock Head,Lightning Rod,Battle Armor,Ordinary,No,320,No,1,"Lightning Rod,Rock Head",2
+Marowak,1,45.0,1.0,Ground,,Rock Head,Lightning Rod,Battle Armor,Ordinary,No,425,No,1,"Lightning Rod,Rock Head",2
+Alolan Marowak,7,34.0,1.0,Fire,Ghost,Cursed Body,Lightning Rod,Rock Head,Ordinary,No,425,"Fire,Ghost",2,"Cursed Body,Lightning Rod",2
+Hitmonlee,1,49.8,1.5,Fighting,,Limber,Reckless,Unburden,Ordinary,No,455,No,1,"Limber,Reckless",2
+Hitmonchan,1,50.2,1.4,Fighting,,Keen Eye,Iron Fist,Inner Focus,Ordinary,No,455,No,1,"Iron Fist,Keen Eye",2
+Lickitung,1,65.5,1.2,Normal,,Own Tempo,Oblivious,Cloud Nine,Ordinary,No,385,No,1,"Oblivious,Own Tempo",2
+Koffing,1,1.0,0.6,Poison,,Levitate,Neutralizing Gas,Stench,Ordinary,No,340,No,1,"Levitate,Neutralizing Gas",2
+Weezing,1,9.5,1.2,Poison,,Levitate,Neutralizing Gas,Stench,Ordinary,No,490,No,1,"Levitate,Neutralizing Gas",2
+Galarian Weezing,8,16.0,3.0,Poison,Fairy,Levitate,Neutralizing Gas,Misty Surge,Ordinary,No,490,"Fairy,Poison",2,"Levitate,Neutralizing Gas",2
+Rhyhorn,1,115.0,1.0,Ground,Rock,Lightning Rod,Rock Head,Reckless,Ordinary,No,345,"Ground,Rock",2,"Lightning Rod,Rock Head",2
+Rhydon,1,120.0,1.9,Ground,Rock,Lightning Rod,Rock Head,Reckless,Ordinary,No,485,"Ground,Rock",2,"Lightning Rod,Rock Head",2
+Chansey,1,34.6,1.1,Normal,,Natural Cure,Serene Grace,Healer,Ordinary,No,450,No,1,"Natural Cure,Serene Grace",2
+Tangela,1,35.0,1.0,Grass,,Chlorophyll,Leaf Guard,Regenerator,Ordinary,No,435,No,1,"Chlorophyll,Leaf Guard",2
+Kangaskhan,1,80.0,2.2,Normal,,Early Bird,Scrappy,Inner Focus,Ordinary,No,490,No,1,"Early Bird,Scrappy",2
+Mega Kangaskhan,1,100.0,2.2,Normal,,Parental Bond,,No,Ordinary,Yes,590,No,1,Parental Bond,1
+Horsea,1,8.0,0.4,Water,,Swift Swim,Sniper,Damp,Ordinary,No,295,No,1,"Sniper,Swift Swim",2
+Seadra,1,25.0,1.2,Water,,Poison Point,Sniper,Damp,Ordinary,No,440,No,1,"Poison Point,Sniper",2
+Goldeen,1,15.0,0.6,Water,,Swift Swim,Water Veil,Lightning Rod,Ordinary,No,320,No,1,"Swift Swim,Water Veil",2
+Seaking,1,39.0,1.3,Water,,Swift Swim,Water Veil,Lightning Rod,Ordinary,No,450,No,1,"Swift Swim,Water Veil",2
+Staryu,1,34.5,0.8,Water,,Illuminate,Natural Cure,Analytic,Ordinary,No,340,No,1,"Illuminate,Natural Cure",2
+Starmie,1,80.0,1.1,Water,Psychic,Illuminate,Natural Cure,Analytic,Ordinary,No,520,"Psychic,Water",2,"Illuminate,Natural Cure",2
+Mr. Mime,1,54.5,1.3,Psychic,Fairy,Soundproof,Filter,Technician,Ordinary,No,460,"Fairy,Psychic",2,"Filter,Soundproof",2
+Galarian Mr. Mime,8,56.8,1.4,Ice,Psychic,Vital Spirit,Screen Cleaner,Ice Body,Ordinary,No,460,"Ice,Psychic",2,"Screen Cleaner,Vital Spirit",2
+Scyther,1,56.0,1.5,Bug,Flying,Swarm,Technician,Steadfast,Ordinary,No,500,"Bug,Flying",2,"Swarm,Technician",2
+Jynx,1,40.6,1.4,Ice,Psychic,Oblivious,Forewarn,Dry Skin,Ordinary,No,455,"Ice,Psychic",2,"Forewarn,Oblivious",2
+Electabuzz,1,30.0,1.1,Electric,,Static,,Vital Spirit,Ordinary,No,490,No,1,Static,1
+Magmar,1,44.5,1.3,Fire,,Flame Body,,Vital Spirit,Ordinary,No,495,No,1,Flame Body,1
+Pinsir,1,55.0,1.5,Bug,,Hyper Cutter,Mold Breaker,Moxie,Ordinary,No,500,No,1,"Hyper Cutter,Mold Breaker",2
+Mega Pinsir,1,59.0,1.7,Bug,Flying,Aerilate,,No,Ordinary,Yes,600,"Bug,Flying",2,Aerilate,1
+Tauros,1,88.4,1.4,Normal,,Intimidate,Anger Point,Sheer Force,Ordinary,No,490,No,1,"Anger Point,Intimidate",2
+Paldean Tauros Combat Breed,1,115.0,1.4,Fighting,,Intimidate,Anger Point,Cud Chew,Ordinary,No,490,No,1,"Anger Point,Intimidate",2
+Paldean Tauros Blaze Breed,9,85.0,1.4,Fighting,Fire,Intimidate,Anger Point,Cud Chew,Ordinary,No,490,"Fighting,Fire",2,"Anger Point,Intimidate",2
+Paldean Tauros Aqua Breed,9,110.0,1.4,Fighting,Water,Intimidate,Anger Point,Cud Chew,Ordinary,No,490,"Fighting,Water",2,"Anger Point,Intimidate",2
+Magikarp,1,10.0,0.9,Water,,Swift Swim,,Rattled,Ordinary,No,200,No,1,Swift Swim,1
+Gyarados,1,235.0,6.5,Water,Flying,Intimidate,,Moxie,Ordinary,No,540,"Flying,Water",2,Intimidate,1
+Mega Gyarados,1,305.0,6.5,Water,Dark,Mold Breaker,,No,Ordinary,Yes,640,"Dark,Water",2,Mold Breaker,1
+Lapras,1,220.0,2.5,Water,Ice,Water Absorb,Shell Armor,Hydration,Ordinary,No,535,"Ice,Water",2,"Shell Armor,Water Absorb",2
+Ditto,1,4.0,0.3,Normal,,Limber,,Imposter,Ordinary,No,288,No,1,Limber,1
+Eevee,1,6.5,0.3,Normal,,Run Away,Adaptability,Anticipation,Ordinary,No,325,No,1,"Adaptability,Run Away",2
+Vaporeon,1,29.0,1.0,Water,,Water Absorb,,Hydration,Ordinary,No,525,No,1,Water Absorb,1
+Jolteon,1,24.5,0.8,Electric,,Volt Absorb,,Quick Feet,Ordinary,No,525,No,1,Volt Absorb,1
+Flareon,1,25.0,0.9,Fire,,Flash Fire,,Guts,Ordinary,No,525,No,1,Flash Fire,1
+Porygon,1,36.5,0.8,Normal,,Trace,Download,Analytic,Ordinary,No,395,No,1,"Download,Trace",2
+Omanyte,1,7.5,0.4,Rock,Water,Swift Swim,Shell Armor,Weak Armor,Ordinary,No,355,"Rock,Water",2,"Shell Armor,Swift Swim",2
+Omastar,1,35.0,1.0,Rock,Water,Swift Swim,Shell Armor,Weak Armor,Ordinary,No,495,"Rock,Water",2,"Shell Armor,Swift Swim",2
+Kabuto,1,11.5,0.5,Rock,Water,Swift Swim,Battle Armor,Weak Armor,Ordinary,No,355,"Rock,Water",2,"Battle Armor,Swift Swim",2
+Kabutops,1,40.5,1.3,Rock,Water,Swift Swim,Battle Armor,Weak Armor,Ordinary,No,495,"Rock,Water",2,"Battle Armor,Swift Swim",2
+Aerodactyl,1,59.0,1.8,Rock,Flying,Rock Head,Pressure,Unnerve,Ordinary,No,515,"Flying,Rock",2,"Pressure,Rock Head",2
+Mega Aerodactyl,1,79.0,2.1,Rock,Flying,Tough Claws,,No,Ordinary,Yes,615,"Flying,Rock",2,Tough Claws,1
+Snorlax,1,460.0,2.1,Normal,,Immunity,Thick Fat,Gluttony,Ordinary,No,540,No,1,"Immunity,Thick Fat",2
+Articuno,1,55.4,1.7,Ice,Flying,Pressure,,Snow Cloak,Semi-Legendary,No,580,"Flying,Ice",2,Pressure,1
+Galarian Articuno,8,50.9,1.7,Psychic,Flying,Competitive,,No,Semi-Legendary,No,580,"Flying,Psychic",2,Competitive,1
+Zapdos,1,52.6,1.6,Electric,Flying,Pressure,,Static,Semi-Legendary,No,580,"Electric,Flying",2,Pressure,1
+Galarian Zapdos,8,58.2,1.6,Fighting,Flying,Defiant,,No,Semi-Legendary,No,580,"Fighting,Flying",2,Defiant,1
+Moltres,1,60.0,2.0,Fire,Flying,Pressure,,Flame Body,Semi-Legendary,No,580,"Fire,Flying",2,Pressure,1
+Galarian Moltres,8,66.0,2.0,Dark,Flying,Berserk,,No,Semi-Legendary,No,580,"Dark,Flying",2,Berserk,1
+Dratini,1,3.3,1.8,Dragon,,Shed Skin,,Marvel Scale,Ordinary,No,300,No,1,Shed Skin,1
+Dragonair,1,16.5,4.0,Dragon,,Shed Skin,,Marvel Scale,Ordinary,No,420,No,1,Shed Skin,1
+Dragonite,1,210.0,2.2,Dragon,Flying,Inner Focus,,Multiscale,Ordinary,No,600,"Dragon,Flying",2,Inner Focus,1
+Mewtwo,1,122.0,2.0,Psychic,,Pressure,,Unnerve,Legendary,No,680,No,1,Pressure,1
+Mega Mewtwo X,1,127.0,2.3,Psychic,Fighting,Steadfast,,No,Legendary,Yes,780,"Fighting,Psychic",2,Steadfast,1
+Mega Mewtwo Y,1,33.0,1.5,Psychic,,Insomnia,,No,Legendary,Yes,780,No,1,Insomnia,1
+Mew,1,4.0,0.4,Psychic,,Synchronize,,No,Mythical,No,600,No,1,Synchronize,1
+Chikorita,2,6.4,0.9,Grass,,Overgrow,,Leaf Guard,Ordinary,No,318,No,1,Overgrow,1
+Bayleef,2,15.8,1.2,Grass,,Overgrow,,Leaf Guard,Ordinary,No,405,No,1,Overgrow,1
+Meganium,2,100.5,1.8,Grass,,Overgrow,,Leaf Guard,Ordinary,No,525,No,1,Overgrow,1
+Cyndaquil,2,7.9,0.5,Fire,,Blaze,,Flash Fire,Ordinary,No,309,No,1,Blaze,1
+Quilava,2,19.0,0.9,Fire,,Blaze,,Flash Fire,Ordinary,No,405,No,1,Blaze,1
+Typhlosion,2,79.5,1.7,Fire,,Blaze,,Flash Fire,Ordinary,No,534,No,1,Blaze,1
+Hisuian Typhlosion,8,69.8,1.6,Fire,Ghost,Blaze,,Frisk,Ordinary,No,534,"Fire,Ghost",2,Blaze,1
+Totodile,2,9.5,0.6,Water,,Torrent,,Sheer Force,Ordinary,No,314,No,1,Torrent,1
+Croconaw,2,25.0,1.1,Water,,Torrent,,Sheer Force,Ordinary,No,405,No,1,Torrent,1
+Feraligatr,2,88.8,2.3,Water,,Torrent,,Sheer Force,Ordinary,No,530,No,1,Torrent,1
+Sentret,2,6.0,0.8,Normal,,Run Away,Keen Eye,Frisk,Ordinary,No,215,No,1,"Keen Eye,Run Away",2
+Furret,2,32.5,1.8,Normal,,Run Away,Keen Eye,Frisk,Ordinary,No,415,No,1,"Keen Eye,Run Away",2
+Hoothoot,2,21.2,0.7,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,Ordinary,No,262,"Flying,Normal",2,"Insomnia,Keen Eye",2
+Noctowl,2,40.8,1.6,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,Ordinary,No,452,"Flying,Normal",2,"Insomnia,Keen Eye",2
+Ledyba,2,10.8,1.0,Bug,Flying,Swarm,Early Bird,Rattled,Ordinary,No,265,"Bug,Flying",2,"Early Bird,Swarm",2
+Ledian,2,35.6,1.4,Bug,Flying,Swarm,Early Bird,Iron Fist,Ordinary,No,390,"Bug,Flying",2,"Early Bird,Swarm",2
+Spinarak,2,8.5,0.5,Bug,Poison,Swarm,Insomnia,Sniper,Ordinary,No,250,"Bug,Poison",2,"Insomnia,Swarm",2
+Ariados,2,33.5,1.1,Bug,Poison,Swarm,Insomnia,Sniper,Ordinary,No,400,"Bug,Poison",2,"Insomnia,Swarm",2
+Crobat,2,75.0,1.8,Poison,Flying,Inner Focus,,Infiltrator,Ordinary,No,535,"Flying,Poison",2,Inner Focus,1
+Chinchou,2,12.0,0.5,Water,Electric,Volt Absorb,Illuminate,Water Absorb,Ordinary,No,330,"Electric,Water",2,"Illuminate,Volt Absorb",2
+Lanturn,2,22.5,1.2,Water,Electric,Volt Absorb,Illuminate,Water Absorb,Ordinary,No,460,"Electric,Water",2,"Illuminate,Volt Absorb",2
+Pichu,2,2.0,0.3,Electric,,Static,,Lightning Rod,Ordinary,No,205,No,1,Static,1
+Cleffa,2,3.0,0.3,Fairy,,Cute Charm,Magic Guard,Friend Guard,Ordinary,No,218,No,1,"Cute Charm,Magic Guard",2
+Igglybuff,2,1.0,0.3,Normal,Fairy,Cute Charm,Competitive,Friend Guard,Ordinary,No,210,"Fairy,Normal",2,"Competitive,Cute Charm",2
+Togepi,2,1.5,0.3,Fairy,,Hustle,Serene Grace,Super Luck,Ordinary,No,245,No,1,"Hustle,Serene Grace",2
+Togetic,2,3.2,0.6,Fairy,Flying,Hustle,Serene Grace,Super Luck,Ordinary,No,405,"Fairy,Flying",2,"Hustle,Serene Grace",2
+Natu,2,2.0,0.2,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,Ordinary,No,320,"Flying,Psychic",2,"Early Bird,Synchronize",2
+Xatu,2,15.0,1.5,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,Ordinary,No,470,"Flying,Psychic",2,"Early Bird,Synchronize",2
+Mareep,2,7.8,0.6,Electric,,Static,,Plus,Ordinary,No,280,No,1,Static,1
+Flaaffy,2,13.3,0.8,Electric,,Static,,Plus,Ordinary,No,365,No,1,Static,1
+Ampharos,2,61.5,1.4,Electric,,Static,,Plus,Ordinary,No,510,No,1,Static,1
+Mega Ampharos,2,61.5,1.4,Electric,Dragon,Mold Breaker,,No,Ordinary,Yes,610,"Dragon,Electric",2,Mold Breaker,1
+Bellossom,2,5.8,0.4,Grass,,Chlorophyll,,Healer,Ordinary,No,490,No,1,Chlorophyll,1
+Marill,2,8.5,0.4,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,Ordinary,No,250,"Fairy,Water",2,"Huge Power,Thick Fat",2
+Azumarill,2,28.5,0.8,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,Ordinary,No,420,"Fairy,Water",2,"Huge Power,Thick Fat",2
+Sudowoodo,2,38.0,1.2,Rock,,Sturdy,Rock Head,Rattled,Ordinary,No,410,No,1,"Rock Head,Sturdy",2
+Politoed,2,33.9,1.1,Water,,Water Absorb,Damp,Drizzle,Ordinary,No,500,No,1,"Damp,Water Absorb",2
+Hoppip,2,0.5,0.4,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Ordinary,No,250,"Flying,Grass",2,"Chlorophyll,Leaf Guard",2
+Skiploom,2,1.0,0.6,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Ordinary,No,340,"Flying,Grass",2,"Chlorophyll,Leaf Guard",2
+Jumpluff,2,3.0,0.8,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Ordinary,No,460,"Flying,Grass",2,"Chlorophyll,Leaf Guard",2
+Aipom,2,11.5,0.8,Normal,,Run Away,Pickup,Skill Link,Ordinary,No,360,No,1,"Pickup,Run Away",2
+Sunkern,2,1.8,0.3,Grass,,Chlorophyll,Solar Power,Early Bird,Ordinary,No,180,No,1,"Chlorophyll,Solar Power",2
+Sunflora,2,8.5,0.8,Grass,,Chlorophyll,Solar Power,Early Bird,Ordinary,No,425,No,1,"Chlorophyll,Solar Power",2
+Yanma,2,38.0,1.2,Bug,Flying,Speed Boost,Compound Eyes,Frisk,Ordinary,No,390,"Bug,Flying",2,"Compound Eyes,Speed Boost",2
+Paldean Wooper,9,11.0,0.4,Poison,Ground,Poison Point,Water Absorb,Unaware,Ordinary,No,210,"Ground,Poison",2,"Poison Point,Water Absorb",2
+Wooper,2,8.5,0.4,Water,Ground,Damp,Water Absorb,Unaware,Ordinary,No,210,"Ground,Water",2,"Damp,Water Absorb",2
+Quagsire,2,75.0,1.4,Water,Ground,Damp,Water Absorb,Unaware,Ordinary,No,430,"Ground,Water",2,"Damp,Water Absorb",2
+Espeon,2,26.5,0.9,Psychic,,Synchronize,,Magic Bounce,Ordinary,No,525,No,1,Synchronize,1
+Umbreon,2,27.0,1.0,Dark,,Synchronize,,Inner Focus,Ordinary,No,525,No,1,Synchronize,1
+Murkrow,2,2.1,0.5,Dark,Flying,Insomnia,Super Luck,Prankster,Ordinary,No,405,"Dark,Flying",2,"Insomnia,Super Luck",2
+Slowking,2,79.5,2.0,Water,Psychic,Oblivious,Own Tempo,Regenerator,Ordinary,No,490,"Psychic,Water",2,"Oblivious,Own Tempo",2
+Galarian Slowking,8,79.5,1.8,Poison,Psychic,Curious Medicine,Own Tempo,Regenerator,Ordinary,No,490,"Poison,Psychic",2,"Curious Medicine,Own Tempo",2
+Misdreavus,2,1.0,0.7,Ghost,,Levitate,,No,Ordinary,No,435,No,1,Levitate,1
+Unown,2,5.0,0.5,Psychic,,Levitate,,No,Ordinary,No,336,No,1,Levitate,1
+Wobbuffet,2,28.5,1.3,Psychic,,Shadow Tag,,Telepathy,Ordinary,No,405,No,1,Shadow Tag,1
+Girafarig,2,41.5,1.5,Normal,Psychic,Inner Focus,Early Bird,Sap Sipper,Ordinary,No,455,"Normal,Psychic",2,"Early Bird,Inner Focus",2
+Pineco,2,7.2,0.6,Bug,,Sturdy,,Overcoat,Ordinary,No,290,No,1,Sturdy,1
+Forretress,2,125.8,1.2,Bug,Steel,Sturdy,,Overcoat,Ordinary,No,465,"Bug,Steel",2,Sturdy,1
+Dunsparce,2,14.0,1.5,Normal,,Serene Grace,Run Away,Rattled,Ordinary,No,415,No,1,"Run Away,Serene Grace",2
+Gligar,2,64.8,1.1,Ground,Flying,Hyper Cutter,Sand Veil,Immunity,Ordinary,No,430,"Flying,Ground",2,"Hyper Cutter,Sand Veil",2
+Steelix,2,400.0,9.2,Steel,Ground,Rock Head,Sturdy,Sheer Force,Ordinary,No,510,"Ground,Steel",2,"Rock Head,Sturdy",2
+Mega Steelix,2,740.0,10.5,Steel,Ground,Sand Force,,No,Ordinary,Yes,610,"Ground,Steel",2,Sand Force,1
+Snubbull,2,7.8,0.6,Fairy,,Intimidate,Run Away,Rattled,Ordinary,No,300,No,1,"Intimidate,Run Away",2
+Granbull,2,48.7,1.4,Fairy,,Intimidate,Quick Feet,Rattled,Ordinary,No,450,No,1,"Intimidate,Quick Feet",2
+Qwilfish,2,3.9,0.5,Water,Poison,Poison Point,Swift Swim,Intimidate,Ordinary,No,440,"Poison,Water",2,"Poison Point,Swift Swim",2
+Hisuian Qwilfish,8,3.9,0.5,Dark,Poison,Poison Point,Swift Swim,Intimidate,Ordinary,No,440,"Dark,Poison",2,"Poison Point,Swift Swim",2
+Scizor,2,118.0,1.8,Bug,Steel,Swarm,Technician,Light Metal,Ordinary,No,500,"Bug,Steel",2,"Swarm,Technician",2
+Mega Scizor,2,125.0,2.0,Bug,Steel,Technician,,No,Ordinary,Yes,600,"Bug,Steel",2,Technician,1
+Shuckle,2,20.5,0.6,Bug,Rock,Sturdy,Gluttony,Contrary,Ordinary,No,505,"Bug,Rock",2,"Gluttony,Sturdy",2
+Heracross,2,54.0,1.5,Bug,Fighting,Swarm,Guts,Moxie,Ordinary,No,500,"Bug,Fighting",2,"Guts,Swarm",2
+Mega Heracross,2,62.5,1.7,Bug,Fighting,Skill Link,,No,Ordinary,Yes,600,"Bug,Fighting",2,Skill Link,1
+Sneasel,2,28.0,0.9,Dark,Ice,Inner Focus,Keen Eye,Pickpocket,Ordinary,No,430,"Dark,Ice",2,"Inner Focus,Keen Eye",2
+Hisuian Sneasel,8,27.0,0.9,Fighting,Poison,Inner Focus,Keen Eye,Pickpocket,Ordinary,No,430,"Fighting,Poison",2,"Inner Focus,Keen Eye",2
+Teddiursa,2,8.8,0.6,Normal,,Pickup,Quick Feet,Honey Gather,Ordinary,No,330,No,1,"Pickup,Quick Feet",2
+Ursaring,2,125.8,1.8,Normal,,Guts,Quick Feet,Unnerve,Ordinary,No,500,No,1,"Guts,Quick Feet",2
+Slugma,2,35.0,0.7,Fire,,Magma Armor,Flame Body,Weak Armor,Ordinary,No,250,No,1,"Flame Body,Magma Armor",2
+Magcargo,2,55.0,0.8,Fire,Rock,Magma Armor,Flame Body,Weak Armor,Ordinary,No,430,"Fire,Rock",2,"Flame Body,Magma Armor",2
+Swinub,2,6.5,0.4,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Ordinary,No,250,"Ground,Ice",2,"Oblivious,Snow Cloak",2
+Piloswine,2,55.8,1.1,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Ordinary,No,450,"Ground,Ice",2,"Oblivious,Snow Cloak",2
+Corsola,2,5.0,0.6,Water,Rock,Hustle,Natural Cure,Regenerator,Ordinary,No,410,"Rock,Water",2,"Hustle,Natural Cure",2
+Galarian Corsola,8,0.5,0.6,Ghost,,Weak Armor,,Cursed Body,Ordinary,No,410,No,1,Weak Armor,1
+Remoraid,2,12.0,0.6,Water,,Hustle,Sniper,Moody,Ordinary,No,300,No,1,"Hustle,Sniper",2
+Octillery,2,28.5,0.9,Water,,Suction Cups,Sniper,Moody,Ordinary,No,480,No,1,"Sniper,Suction Cups",2
+Delibird,2,16.0,0.9,Ice,Flying,Vital Spirit,Hustle,Insomnia,Ordinary,No,330,"Flying,Ice",2,"Hustle,Vital Spirit",2
+Mantine,2,220.0,2.1,Water,Flying,Swift Swim,Water Absorb,Water Veil,Ordinary,No,485,"Flying,Water",2,"Swift Swim,Water Absorb",2
+Skarmory,2,50.5,1.7,Steel,Flying,Keen Eye,Sturdy,Weak Armor,Ordinary,No,465,"Flying,Steel",2,"Keen Eye,Sturdy",2
+Houndour,2,10.8,0.6,Dark,Fire,Early Bird,Flash Fire,Unnerve,Ordinary,No,330,"Dark,Fire",2,"Early Bird,Flash Fire",2
+Houndoom,2,35.0,1.4,Dark,Fire,Early Bird,Flash Fire,Unnerve,Ordinary,No,500,"Dark,Fire",2,"Early Bird,Flash Fire",2
+Mega Houndoom,2,49.5,1.9,Dark,Fire,Solar Power,,No,Ordinary,Yes,600,"Dark,Fire",2,Solar Power,1
+Kingdra,2,152.0,1.8,Water,Dragon,Swift Swim,Sniper,Damp,Ordinary,No,540,"Dragon,Water",2,"Sniper,Swift Swim",2
+Phanpy,2,33.5,0.5,Ground,,Pickup,,Sand Veil,Ordinary,No,330,No,1,Pickup,1
+Donphan,2,120.0,1.1,Ground,,Sturdy,,Sand Veil,Ordinary,No,500,No,1,Sturdy,1
+Porygon2,2,32.5,0.6,Normal,,Trace,Download,Analytic,Ordinary,No,515,No,1,"Download,Trace",2
+Stantler,2,71.2,1.4,Normal,,Intimidate,Frisk,Sap Sipper,Ordinary,No,465,No,1,"Frisk,Intimidate",2
+Smeargle,2,58.0,1.2,Normal,,Own Tempo,Technician,Moody,Ordinary,No,250,No,1,"Own Tempo,Technician",2
+Tyrogue,2,21.0,0.7,Fighting,,Guts,Steadfast,Vital Spirit,Ordinary,No,210,No,1,"Guts,Steadfast",2
+Hitmontop,2,48.0,1.4,Fighting,,Intimidate,Technician,Steadfast,Ordinary,No,455,No,1,"Intimidate,Technician",2
+Smoochum,2,6.0,0.4,Ice,Psychic,Oblivious,Forewarn,Hydration,Ordinary,No,305,"Ice,Psychic",2,"Forewarn,Oblivious",2
+Elekid,2,23.5,0.6,Electric,,Static,,Vital Spirit,Ordinary,No,360,No,1,Static,1
+Magby,2,21.4,0.7,Fire,,Flame Body,,Vital Spirit,Ordinary,No,365,No,1,Flame Body,1
+Miltank,2,75.5,1.2,Normal,,Thick Fat,Scrappy,Sap Sipper,Ordinary,No,490,No,1,"Scrappy,Thick Fat",2
+Blissey,2,46.8,1.5,Normal,,Natural Cure,Serene Grace,Healer,Ordinary,No,540,No,1,"Natural Cure,Serene Grace",2
+Raikou,2,178.0,1.9,Electric,,Pressure,,Inner Focus,Semi-Legendary,No,580,No,1,Pressure,1
+Entei,2,198.0,2.1,Fire,,Pressure,,Inner Focus,Semi-Legendary,No,580,No,1,Pressure,1
+Suicune,2,187.0,2.0,Water,,Pressure,,Inner Focus,Semi-Legendary,No,580,No,1,Pressure,1
+Larvitar,2,72.0,0.6,Rock,Ground,Guts,,Sand Veil,Ordinary,No,300,"Ground,Rock",2,Guts,1
+Pupitar,2,152.0,1.2,Rock,Ground,Shed Skin,,No,Ordinary,No,410,"Ground,Rock",2,Shed Skin,1
+Tyranitar,2,202.0,2.0,Rock,Dark,Sand Stream,,Unnerve,Ordinary,No,600,"Dark,Rock",2,Sand Stream,1
+Mega Tyranitar,2,255.0,2.5,Rock,Dark,Sand Stream,,No,Ordinary,Yes,700,"Dark,Rock",2,Sand Stream,1
+Lugia,2,216.0,5.2,Psychic,Flying,Pressure,,Multiscale,Legendary,No,680,"Flying,Psychic",2,Pressure,1
+Ho-Oh,2,199.0,3.8,Fire,Flying,Pressure,,Regenerator,Legendary,No,680,"Fire,Flying",2,Pressure,1
+Celebi,2,5.0,0.6,Psychic,Grass,Natural Cure,,No,Mythical,No,600,"Grass,Psychic",2,Natural Cure,1
+Treecko,3,5.0,0.5,Grass,,Overgrow,,Unburden,Ordinary,No,310,No,1,Overgrow,1
+Grovyle,3,21.6,0.9,Grass,,Overgrow,,Unburden,Ordinary,No,405,No,1,Overgrow,1
+Sceptile,3,52.2,1.7,Grass,,Overgrow,,Unburden,Ordinary,No,530,No,1,Overgrow,1
+Mega Sceptile,3,55.2,1.9,Grass,Dragon,Lightning Rod,,No,Ordinary,Yes,630,"Dragon,Grass",2,Lightning Rod,1
+Torchic,3,2.5,0.4,Fire,,Blaze,,Speed Boost,Ordinary,No,310,No,1,Blaze,1
+Combusken,3,19.5,0.9,Fire,Fighting,Blaze,,Speed Boost,Ordinary,No,405,"Fighting,Fire",2,Blaze,1
+Blaziken,3,52.0,1.9,Fire,Fighting,Blaze,,Speed Boost,Ordinary,No,530,"Fighting,Fire",2,Blaze,1
+Mega Blaziken,3,52.0,1.9,Fire,Fighting,Speed Boost,,No,Ordinary,Yes,630,"Fighting,Fire",2,Speed Boost,1
+Mudkip,3,7.6,0.4,Water,,Torrent,,Damp,Ordinary,No,310,No,1,Torrent,1
+Marshtomp,3,28.0,0.7,Water,Ground,Torrent,,Damp,Ordinary,No,405,"Ground,Water",2,Torrent,1
+Swampert,3,81.9,1.5,Water,Ground,Torrent,,Damp,Ordinary,No,535,"Ground,Water",2,Torrent,1
+Mega Swampert,3,102.0,1.9,Water,Ground,Swift Swim,,No,Ordinary,Yes,635,"Ground,Water",2,Swift Swim,1
+Poochyena,3,13.6,0.5,Dark,,Run Away,Quick Feet,Rattled,Ordinary,No,220,No,1,"Quick Feet,Run Away",2
+Mightyena,3,37.0,1.0,Dark,,Intimidate,Quick Feet,Moxie,Ordinary,No,420,No,1,"Intimidate,Quick Feet",2
+Zigzagoon,3,17.5,0.4,Normal,,Pickup,Gluttony,Quick Feet,Ordinary,No,240,No,1,"Gluttony,Pickup",2
+Galarian Zigzagoon,8,17.5,0.4,Dark,Normal,Pickup,Gluttony,Quick Feet,Ordinary,No,240,"Dark,Normal",2,"Gluttony,Pickup",2
+Linoone,3,32.5,0.5,Normal,,Pickup,Gluttony,Quick Feet,Ordinary,No,420,No,1,"Gluttony,Pickup",2
+Galarian Linoone,8,32.5,0.5,Dark,Normal,Pickup,Gluttony,Quick Feet,Ordinary,No,420,"Dark,Normal",2,"Gluttony,Pickup",2
+Wurmple,3,3.6,0.3,Bug,,Shield Dust,,Run Away,Ordinary,No,195,No,1,Shield Dust,1
+Silcoon,3,10.0,0.6,Bug,,Shed Skin,,No,Ordinary,No,205,No,1,Shed Skin,1
+Beautifly,3,28.4,1.0,Bug,Flying,Swarm,,Rivalry,Ordinary,No,395,"Bug,Flying",2,Swarm,1
+Cascoon,3,11.5,0.7,Bug,,Shed Skin,,No,Ordinary,No,205,No,1,Shed Skin,1
+Dustox,3,31.6,1.2,Bug,Poison,Shield Dust,,Compound Eyes,Ordinary,No,385,"Bug,Poison",2,Shield Dust,1
+Lotad,3,2.6,0.5,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Ordinary,No,220,"Grass,Water",2,"Rain Dish,Swift Swim",2
+Lombre,3,32.5,1.2,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Ordinary,No,340,"Grass,Water",2,"Rain Dish,Swift Swim",2
+Ludicolo,3,55.0,1.5,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Ordinary,No,480,"Grass,Water",2,"Rain Dish,Swift Swim",2
+Seedot,3,4.0,0.5,Grass,,Chlorophyll,Early Bird,Pickpocket,Ordinary,No,220,No,1,"Chlorophyll,Early Bird",2
+Nuzleaf,3,28.0,1.0,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,Ordinary,No,340,"Dark,Grass",2,"Chlorophyll,Early Bird",2
+Shiftry,3,59.6,1.3,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,Ordinary,No,480,"Dark,Grass",2,"Chlorophyll,Early Bird",2
+Taillow,3,2.3,0.3,Normal,Flying,Guts,,Scrappy,Ordinary,No,270,"Flying,Normal",2,Guts,1
+Swellow,3,19.8,0.7,Normal,Flying,Guts,,Scrappy,Ordinary,No,455,"Flying,Normal",2,Guts,1
+Wingull,3,9.5,0.6,Water,Flying,Keen Eye,Hydration,Rain Dish,Ordinary,No,270,"Flying,Water",2,"Hydration,Keen Eye",2
+Pelipper,3,28.0,1.2,Water,Flying,Keen Eye,Drizzle,Rain Dish,Ordinary,No,440,"Flying,Water",2,"Drizzle,Keen Eye",2
+Ralts,3,6.6,0.4,Psychic,Fairy,Synchronize,Trace,Telepathy,Ordinary,No,198,"Fairy,Psychic",2,"Synchronize,Trace",2
+Kirlia,3,20.2,0.8,Psychic,Fairy,Synchronize,Trace,Telepathy,Ordinary,No,278,"Fairy,Psychic",2,"Synchronize,Trace",2
+Gardevoir,3,48.4,1.6,Psychic,Fairy,Synchronize,Trace,Telepathy,Ordinary,No,518,"Fairy,Psychic",2,"Synchronize,Trace",2
+Mega Gardevoir,3,48.4,1.6,Psychic,Fairy,Pixilate,,No,Ordinary,Yes,618,"Fairy,Psychic",2,Pixilate,1
+Surskit,3,1.7,0.5,Bug,Water,Swift Swim,,Rain Dish,Ordinary,No,269,"Bug,Water",2,Swift Swim,1
+Masquerain,3,3.6,0.8,Bug,Flying,Intimidate,,Unnerve,Ordinary,No,454,"Bug,Flying",2,Intimidate,1
+Shroomish,3,4.5,0.4,Grass,,Effect Spore,Poison Heal,Quick Feet,Ordinary,No,295,No,1,"Effect Spore,Poison Heal",2
+Breloom,3,39.2,1.2,Grass,Fighting,Effect Spore,Poison Heal,Technician,Ordinary,No,460,"Fighting,Grass",2,"Effect Spore,Poison Heal",2
+Slakoth,3,24.0,0.8,Normal,,Truant,,No,Ordinary,No,280,No,1,Truant,1
+Vigoroth,3,46.5,1.4,Normal,,Vital Spirit,,No,Ordinary,No,440,No,1,Vital Spirit,1
+Slaking,3,130.5,2.0,Normal,,Truant,,No,Ordinary,No,670,No,1,Truant,1
+Nincada,3,5.5,0.5,Bug,Ground,Compound Eyes,,Run Away,Ordinary,No,266,"Bug,Ground",2,Compound Eyes,1
+Ninjask,3,12.0,0.8,Bug,Flying,Speed Boost,,Infiltrator,Ordinary,No,456,"Bug,Flying",2,Speed Boost,1
+Shedinja,3,1.2,0.8,Bug,Ghost,Wonder Guard,,No,Ordinary,No,236,"Bug,Ghost",2,Wonder Guard,1
+Whismur,3,16.3,0.6,Normal,,Soundproof,,Rattled,Ordinary,No,240,No,1,Soundproof,1
+Loudred,3,40.5,1.0,Normal,,Soundproof,,Scrappy,Ordinary,No,360,No,1,Soundproof,1
+Exploud,3,84.0,1.5,Normal,,Soundproof,,Scrappy,Ordinary,No,490,No,1,Soundproof,1
+Makuhita,3,86.4,1.0,Fighting,,Thick Fat,Guts,Sheer Force,Ordinary,No,237,No,1,"Guts,Thick Fat",2
+Hariyama,3,253.8,2.3,Fighting,,Thick Fat,Guts,Sheer Force,Ordinary,No,474,No,1,"Guts,Thick Fat",2
+Azurill,3,2.0,0.2,Normal,Fairy,Thick Fat,Huge Power,Sap Sipper,Ordinary,No,190,"Fairy,Normal",2,"Huge Power,Thick Fat",2
+Nosepass,3,97.0,1.0,Rock,,Sturdy,Magnet Pull,Sand Force,Ordinary,No,375,No,1,"Magnet Pull,Sturdy",2
+Skitty,3,11.0,0.6,Normal,,Cute Charm,Normalize,Wonder Skin,Ordinary,No,260,No,1,"Cute Charm,Normalize",2
+Delcatty,3,32.6,1.1,Normal,,Cute Charm,Normalize,Wonder Skin,Ordinary,No,400,No,1,"Cute Charm,Normalize",2
+Sableye,3,11.0,0.5,Dark,Ghost,Keen Eye,Stall,Prankster,Ordinary,No,380,"Dark,Ghost",2,"Keen Eye,Stall",2
+Mega Sableye,3,161.0,0.5,Dark,Ghost,Magic Bounce,,No,Ordinary,Yes,480,"Dark,Ghost",2,Magic Bounce,1
+Mawile,3,11.5,0.6,Steel,Fairy,Hyper Cutter,Intimidate,Sheer Force,Ordinary,No,380,"Fairy,Steel",2,"Hyper Cutter,Intimidate",2
+Mega Mawile,3,23.5,1.0,Steel,Fairy,Huge Power,,No,Ordinary,Yes,480,"Fairy,Steel",2,Huge Power,1
+Aron,3,60.0,0.4,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Ordinary,No,330,"Rock,Steel",2,"Rock Head,Sturdy",2
+Lairon,3,120.0,0.9,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Ordinary,No,430,"Rock,Steel",2,"Rock Head,Sturdy",2
+Aggron,3,360.0,2.1,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Ordinary,No,530,"Rock,Steel",2,"Rock Head,Sturdy",2
+Mega Aggron,3,395.0,2.2,Steel,,Filter,,No,Ordinary,Yes,630,No,1,Filter,1
+Meditite,3,11.2,0.6,Fighting,Psychic,Pure Power,,Telepathy,Ordinary,No,280,"Fighting,Psychic",2,Pure Power,1
+Medicham,3,31.5,1.3,Fighting,Psychic,Pure Power,,Telepathy,Ordinary,No,410,"Fighting,Psychic",2,Pure Power,1
+Mega Medicham,3,31.5,1.3,Fighting,Psychic,Pure Power,,No,Ordinary,Yes,510,"Fighting,Psychic",2,Pure Power,1
+Electrike,3,15.2,0.6,Electric,,Static,Lightning Rod,Minus,Ordinary,No,295,No,1,"Lightning Rod,Static",2
+Manectric,3,40.2,1.5,Electric,,Static,Lightning Rod,Minus,Ordinary,No,475,No,1,"Lightning Rod,Static",2
+Mega Manectric,3,44.0,1.8,Electric,,Intimidate,,No,Ordinary,Yes,575,No,1,Intimidate,1
+Plusle,3,4.2,0.4,Electric,,Plus,,Lightning Rod,Ordinary,No,405,No,1,Plus,1
+Minun,3,4.2,0.4,Electric,,Minus,,Volt Absorb,Ordinary,No,405,No,1,Minus,1
+Volbeat,3,17.7,0.7,Bug,,Illuminate,Swarm,Prankster,Ordinary,No,430,No,1,"Illuminate,Swarm",2
+Illumise,3,17.7,0.6,Bug,,Oblivious,Tinted Lens,Prankster,Ordinary,No,430,No,1,"Oblivious,Tinted Lens",2
+Roselia,3,2.0,0.3,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,Ordinary,No,400,"Grass,Poison",2,"Natural Cure,Poison Point",2
+Gulpin,3,10.3,0.4,Poison,,Liquid Ooze,Sticky Hold,Gluttony,Ordinary,No,302,No,1,"Liquid Ooze,Sticky Hold",2
+Swalot,3,80.0,1.7,Poison,,Liquid Ooze,Sticky Hold,Gluttony,Ordinary,No,467,No,1,"Liquid Ooze,Sticky Hold",2
+Carvanha,3,20.8,0.8,Water,Dark,Rough Skin,,Speed Boost,Ordinary,No,305,"Dark,Water",2,Rough Skin,1
+Sharpedo,3,88.8,1.8,Water,Dark,Rough Skin,,Speed Boost,Ordinary,No,460,"Dark,Water",2,Rough Skin,1
+Mega Sharpedo,3,130.3,2.5,Water,Dark,Strong Jaw,,No,Ordinary,Yes,560,"Dark,Water",2,Strong Jaw,1
+Wailmer,3,130.0,2.0,Water,,Water Veil,Oblivious,Pressure,Ordinary,No,400,No,1,"Oblivious,Water Veil",2
+Wailord,3,398.0,14.5,Water,,Water Veil,Oblivious,Pressure,Ordinary,No,500,No,1,"Oblivious,Water Veil",2
+Numel,3,24.0,0.7,Fire,Ground,Oblivious,Simple,Own Tempo,Ordinary,No,305,"Fire,Ground",2,"Oblivious,Simple",2
+Camerupt,3,220.0,1.9,Fire,Ground,Magma Armor,Solid Rock,Anger Point,Ordinary,No,460,"Fire,Ground",2,"Magma Armor,Solid Rock",2
+Mega Camerupt,3,320.5,2.5,Fire,Ground,Sheer Force,,No,Ordinary,Yes,560,"Fire,Ground",2,Sheer Force,1
+Torkoal,3,80.4,0.5,Fire,,White Smoke,Drought,Shell Armor,Ordinary,No,470,No,1,"Drought,White Smoke",2
+Spoink,3,30.6,0.7,Psychic,,Thick Fat,Own Tempo,Gluttony,Ordinary,No,330,No,1,"Own Tempo,Thick Fat",2
+Grumpig,3,71.5,0.9,Psychic,,Thick Fat,Own Tempo,Gluttony,Ordinary,No,470,No,1,"Own Tempo,Thick Fat",2
+Spinda,3,5.0,1.1,Normal,,Own Tempo,Tangled Feet,Contrary,Ordinary,No,360,No,1,"Own Tempo,Tangled Feet",2
+Trapinch,3,15.0,0.7,Ground,,Hyper Cutter,Arena Trap,Sheer Force,Ordinary,No,290,No,1,"Arena Trap,Hyper Cutter",2
+Vibrava,3,15.3,1.1,Ground,Dragon,Levitate,,No,Ordinary,No,340,"Dragon,Ground",2,Levitate,1
+Flygon,3,82.0,2.0,Ground,Dragon,Levitate,,No,Ordinary,No,520,"Dragon,Ground",2,Levitate,1
+Cacnea,3,51.3,0.4,Grass,,Sand Veil,,Water Absorb,Ordinary,No,335,No,1,Sand Veil,1
+Cacturne,3,77.4,1.3,Grass,Dark,Sand Veil,,Water Absorb,Ordinary,No,475,"Dark,Grass",2,Sand Veil,1
+Swablu,3,1.2,0.4,Normal,Flying,Natural Cure,,Cloud Nine,Ordinary,No,310,"Flying,Normal",2,Natural Cure,1
+Altaria,3,20.6,1.1,Dragon,Flying,Natural Cure,,Cloud Nine,Ordinary,No,490,"Dragon,Flying",2,Natural Cure,1
+Mega Altaria,3,20.6,1.5,Dragon,Fairy,Pixilate,,No,Ordinary,Yes,590,"Dragon,Fairy",2,Pixilate,1
+Zangoose,3,40.3,1.3,Normal,,Immunity,,Toxic Boost,Ordinary,No,458,No,1,Immunity,1
+Seviper,3,52.5,2.7,Poison,,Shed Skin,,Infiltrator,Ordinary,No,458,No,1,Shed Skin,1
+Lunatone,3,168.0,1.0,Rock,Psychic,Levitate,,No,Ordinary,No,460,"Psychic,Rock",2,Levitate,1
+Solrock,3,154.0,1.2,Rock,Psychic,Levitate,,No,Ordinary,No,460,"Psychic,Rock",2,Levitate,1
+Barboach,3,1.9,0.4,Water,Ground,Oblivious,Anticipation,Hydration,Ordinary,No,288,"Ground,Water",2,"Anticipation,Oblivious",2
+Whiscash,3,23.6,0.9,Water,Ground,Oblivious,Anticipation,Hydration,Ordinary,No,468,"Ground,Water",2,"Anticipation,Oblivious",2
+Corphish,3,11.5,0.6,Water,,Hyper Cutter,Shell Armor,Adaptability,Ordinary,No,308,No,1,"Hyper Cutter,Shell Armor",2
+Crawdaunt,3,32.8,1.1,Water,Dark,Hyper Cutter,Shell Armor,Adaptability,Ordinary,No,468,"Dark,Water",2,"Hyper Cutter,Shell Armor",2
+Baltoy,3,21.5,0.5,Ground,Psychic,Levitate,,No,Ordinary,No,300,"Ground,Psychic",2,Levitate,1
+Claydol,3,108.0,1.5,Ground,Psychic,Levitate,,No,Ordinary,No,500,"Ground,Psychic",2,Levitate,1
+Lileep,3,23.8,1.0,Rock,Grass,Suction Cups,,Storm Drain,Ordinary,No,355,"Grass,Rock",2,Suction Cups,1
+Cradily,3,60.4,1.5,Rock,Grass,Suction Cups,,Storm Drain,Ordinary,No,495,"Grass,Rock",2,Suction Cups,1
+Anorith,3,12.5,0.7,Rock,Bug,Battle Armor,,Swift Swim,Ordinary,No,355,"Bug,Rock",2,Battle Armor,1
+Armaldo,3,68.2,1.5,Rock,Bug,Battle Armor,,Swift Swim,Ordinary,No,495,"Bug,Rock",2,Battle Armor,1
+Feebas,3,7.4,0.6,Water,,Swift Swim,Oblivious,Adaptability,Ordinary,No,200,No,1,"Oblivious,Swift Swim",2
+Milotic,3,162.0,6.2,Water,,Marvel Scale,Competitive,Cute Charm,Ordinary,No,540,No,1,"Competitive,Marvel Scale",2
+Castform,3,0.8,0.3,Normal,,Forecast,,No,Ordinary,No,420,No,1,Forecast,1
+Castform Sunny Form,3,0.8,0.3,Normal,,Forecast,,No,Ordinary,No,420,No,1,Forecast,1
+Castform Rainy Form,3,0.8,0.3,Normal,,Forecast,,No,Ordinary,No,420,No,1,Forecast,1
+Castform Snowy Form,3,0.8,0.3,Normal,,Forecast,,No,Ordinary,No,420,No,1,Forecast,1
+Kecleon,3,22.0,1.0,Normal,,Color Change,,Protean,Ordinary,No,440,No,1,Color Change,1
+Shuppet,3,2.3,0.6,Ghost,,Insomnia,Frisk,Cursed Body,Ordinary,No,295,No,1,"Frisk,Insomnia",2
+Banette,3,12.5,1.1,Ghost,,Insomnia,Frisk,Cursed Body,Ordinary,No,455,No,1,"Frisk,Insomnia",2
+Mega Banette,3,13.0,1.2,Ghost,,Prankster,,No,Ordinary,Yes,555,No,1,Prankster,1
+Duskull,3,15.0,0.8,Ghost,,Levitate,,Frisk,Ordinary,No,295,No,1,Levitate,1
+Dusclops,3,30.6,1.6,Ghost,,Pressure,,Frisk,Ordinary,No,455,No,1,Pressure,1
+Tropius,3,100.0,2.0,Grass,Flying,Chlorophyll,Solar Power,Harvest,Ordinary,No,460,"Flying,Grass",2,"Chlorophyll,Solar Power",2
+Chimecho,3,1.0,0.6,Psychic,,Levitate,,No,Ordinary,No,455,No,1,Levitate,1
+Absol,3,47.0,1.2,Dark,,Pressure,Super Luck,Justified,Ordinary,No,465,No,1,"Pressure,Super Luck",2
+Mega Absol,3,49.0,1.2,Dark,,Magic Bounce,,No,Ordinary,Yes,565,No,1,Magic Bounce,1
+Wynaut,3,14.0,0.6,Psychic,,Shadow Tag,,Telepathy,Ordinary,No,260,No,1,Shadow Tag,1
+Snorunt,3,16.8,0.7,Ice,,Inner Focus,Ice Body,Moody,Ordinary,No,300,No,1,"Ice Body,Inner Focus",2
+Glalie,3,256.5,1.5,Ice,,Inner Focus,Ice Body,Moody,Ordinary,No,480,No,1,"Ice Body,Inner Focus",2
+Mega Glalie,3,350.2,2.1,Ice,,Refrigerate,,No,Ordinary,Yes,580,No,1,Refrigerate,1
+Spheal,3,39.5,0.8,Ice,Water,Thick Fat,Ice Body,Oblivious,Ordinary,No,290,"Ice,Water",2,"Ice Body,Thick Fat",2
+Sealeo,3,87.6,1.1,Ice,Water,Thick Fat,Ice Body,Oblivious,Ordinary,No,410,"Ice,Water",2,"Ice Body,Thick Fat",2
+Walrein,3,150.6,1.4,Ice,Water,Thick Fat,Ice Body,Oblivious,Ordinary,No,530,"Ice,Water",2,"Ice Body,Thick Fat",2
+Clamperl,3,52.5,0.4,Water,,Shell Armor,,Rattled,Ordinary,No,345,No,1,Shell Armor,1
+Huntail,3,27.0,1.7,Water,,Swift Swim,,Water Veil,Ordinary,No,485,No,1,Swift Swim,1
+Gorebyss,3,22.6,1.8,Water,,Swift Swim,,Hydration,Ordinary,No,485,No,1,Swift Swim,1
+Relicanth,3,23.4,1.0,Water,Rock,Swift Swim,Rock Head,Sturdy,Ordinary,No,485,"Rock,Water",2,"Rock Head,Swift Swim",2
+Luvdisc,3,8.7,0.6,Water,,Swift Swim,,Hydration,Ordinary,No,330,No,1,Swift Swim,1
+Bagon,3,42.1,0.6,Dragon,,Rock Head,,Sheer Force,Ordinary,No,300,No,1,Rock Head,1
+Shelgon,3,110.5,1.1,Dragon,,Rock Head,,Overcoat,Ordinary,No,420,No,1,Rock Head,1
+Salamence,3,102.6,1.5,Dragon,Flying,Intimidate,,Moxie,Ordinary,No,600,"Dragon,Flying",2,Intimidate,1
+Mega Salamence,3,112.6,1.8,Dragon,Flying,Aerilate,,No,Ordinary,Yes,700,"Dragon,Flying",2,Aerilate,1
+Beldum,3,95.2,0.6,Steel,Psychic,Clear Body,,Light Metal,Ordinary,No,300,"Psychic,Steel",2,Clear Body,1
+Metang,3,202.5,1.2,Steel,Psychic,Clear Body,,Light Metal,Ordinary,No,420,"Psychic,Steel",2,Clear Body,1
+Metagross,3,550.0,1.6,Steel,Psychic,Clear Body,,Light Metal,Ordinary,No,600,"Psychic,Steel",2,Clear Body,1
+Mega Metagross,3,942.9,2.5,Steel,Psychic,Tough Claws,,No,Ordinary,Yes,700,"Psychic,Steel",2,Tough Claws,1
+Regirock,3,230.0,1.7,Rock,,Clear Body,,Sturdy,Semi-Legendary,No,580,No,1,Clear Body,1
+Regice,3,175.0,1.8,Ice,,Clear Body,,Ice Body,Semi-Legendary,No,580,No,1,Clear Body,1
+Registeel,3,205.0,1.9,Steel,,Clear Body,,Light Metal,Semi-Legendary,No,580,No,1,Clear Body,1
+Latias,3,40.0,1.4,Dragon,Psychic,Levitate,,No,Semi-Legendary,No,600,"Dragon,Psychic",2,Levitate,1
+Mega Latias,3,52.0,1.8,Dragon,Psychic,Levitate,,No,Semi-Legendary,Yes,700,"Dragon,Psychic",2,Levitate,1
+Latios,3,60.0,2.0,Dragon,Psychic,Levitate,,No,Semi-Legendary,No,600,"Dragon,Psychic",2,Levitate,1
+Mega Latios,3,70.0,2.3,Dragon,Psychic,Levitate,,No,Semi-Legendary,Yes,700,"Dragon,Psychic",2,Levitate,1
+Kyogre,3,352.0,4.5,Water,,Drizzle,,No,Legendary,No,670,No,1,Drizzle,1
+Primal Kyogre,3,430.0,9.8,Water,,Primordial Sea,,No,Legendary,No,770,No,1,Primordial Sea,1
+Groudon,3,950.0,3.5,Ground,,Drought,,No,Legendary,No,670,No,1,Drought,1
+Primal Groudon,3,999.7,5.0,Ground,Fire,Desolate Land,,No,Legendary,No,770,"Fire,Ground",2,Desolate Land,1
+Rayquaza,3,206.5,7.0,Dragon,Flying,Air Lock,,No,Legendary,No,680,"Dragon,Flying",2,Air Lock,1
+Mega Rayquaza,3,392.0,10.8,Dragon,Flying,Delta Stream,,No,Legendary,Yes,780,"Dragon,Flying",2,Delta Stream,1
+Jirachi,3,1.1,0.3,Steel,Psychic,Serene Grace,,No,Mythical,No,600,"Psychic,Steel",2,Serene Grace,1
+Deoxys,3,60.8,1.7,Psychic,,Pressure,,No,Mythical,No,600,No,1,Pressure,1
+Deoxys Attack Form,3,60.8,1.7,Psychic,,Pressure,,No,Mythical,No,600,No,1,Pressure,1
+Deoxys Defense Form,3,60.8,1.7,Psychic,,Pressure,,No,Mythical,No,600,No,1,Pressure,1
+Deoxys Speed Form,3,60.8,1.7,Psychic,,Pressure,,No,Mythical,No,600,No,1,Pressure,1
+Turtwig,4,10.2,0.4,Grass,,Overgrow,,Shell Armor,Ordinary,No,318,No,1,Overgrow,1
+Grotle,4,97.0,1.1,Grass,,Overgrow,,Shell Armor,Ordinary,No,405,No,1,Overgrow,1
+Torterra,4,310.0,2.2,Grass,Ground,Overgrow,,Shell Armor,Ordinary,No,525,"Grass,Ground",2,Overgrow,1
+Chimchar,4,6.2,0.5,Fire,,Blaze,,Iron Fist,Ordinary,No,309,No,1,Blaze,1
+Monferno,4,22.0,0.9,Fire,Fighting,Blaze,,Iron Fist,Ordinary,No,405,"Fighting,Fire",2,Blaze,1
+Infernape,4,55.0,1.2,Fire,Fighting,Blaze,,Iron Fist,Ordinary,No,534,"Fighting,Fire",2,Blaze,1
+Piplup,4,5.2,0.4,Water,,Torrent,,Defiant,Ordinary,No,314,No,1,Torrent,1
+Prinplup,4,23.0,0.8,Water,,Torrent,,Defiant,Ordinary,No,405,No,1,Torrent,1
+Empoleon,4,84.5,1.7,Water,Steel,Torrent,,Defiant,Ordinary,No,530,"Steel,Water",2,Torrent,1
+Starly,4,2.0,0.3,Normal,Flying,Keen Eye,,Reckless,Ordinary,No,245,"Flying,Normal",2,Keen Eye,1
+Staravia,4,15.5,0.6,Normal,Flying,Intimidate,,Reckless,Ordinary,No,340,"Flying,Normal",2,Intimidate,1
+Staraptor,4,24.9,1.2,Normal,Flying,Intimidate,,Reckless,Ordinary,No,485,"Flying,Normal",2,Intimidate,1
+Bidoof,4,20.0,0.5,Normal,,Simple,Unaware,Moody,Ordinary,No,250,No,1,"Simple,Unaware",2
+Bibarel,4,31.5,1.0,Normal,Water,Simple,Unaware,Moody,Ordinary,No,410,"Normal,Water",2,"Simple,Unaware",2
+Kricketot,4,2.2,0.3,Bug,,Shed Skin,,Run Away,Ordinary,No,194,No,1,Shed Skin,1
+Kricketune,4,25.5,1.0,Bug,,Swarm,,Technician,Ordinary,No,384,No,1,Swarm,1
+Shinx,4,9.5,0.5,Electric,,Rivalry,Intimidate,Guts,Ordinary,No,263,No,1,"Intimidate,Rivalry",2
+Luxio,4,30.5,0.9,Electric,,Rivalry,Intimidate,Guts,Ordinary,No,363,No,1,"Intimidate,Rivalry",2
+Luxray,4,42.0,1.4,Electric,,Rivalry,Intimidate,Guts,Ordinary,No,523,No,1,"Intimidate,Rivalry",2
+Budew,4,1.2,0.2,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,Ordinary,No,280,"Grass,Poison",2,"Natural Cure,Poison Point",2
+Roserade,4,14.5,0.9,Grass,Poison,Natural Cure,Poison Point,Technician,Ordinary,No,515,"Grass,Poison",2,"Natural Cure,Poison Point",2
+Cranidos,4,31.5,0.9,Rock,,Mold Breaker,,Sheer Force,Ordinary,No,350,No,1,Mold Breaker,1
+Rampardos,4,102.5,1.6,Rock,,Mold Breaker,,Sheer Force,Ordinary,No,495,No,1,Mold Breaker,1
+Shieldon,4,57.0,0.5,Rock,Steel,Sturdy,,Soundproof,Ordinary,No,350,"Rock,Steel",2,Sturdy,1
+Bastiodon,4,149.5,1.3,Rock,Steel,Sturdy,,Soundproof,Ordinary,No,495,"Rock,Steel",2,Sturdy,1
+Burmy Plant Form,4,3.4,0.2,Bug,,Shed Skin,,Overcoat,Ordinary,No,224,No,1,Shed Skin,1
+Burmy Sandy Form,4,3.4,0.2,Bug,,Shed Skin,,Overcoat,Ordinary,No,224,No,1,Shed Skin,1
+Burmy Trash Form,4,3.4,0.2,Bug,,Shed Skin,,Overcoat,Ordinary,No,224,No,1,Shed Skin,1
+Wormadam Plant Form,4,6.5,0.5,Bug,Grass,Anticipation,,Overcoat,Ordinary,No,424,"Bug,Grass",2,Anticipation,1
+Wormadam Sandy Form,4,6.5,0.5,Bug,Ground,Anticipation,,Overcoat,Ordinary,No,424,"Bug,Ground",2,Anticipation,1
+Wormadam Trash Form,4,6.5,0.5,Bug,Steel,Anticipation,,Overcoat,Ordinary,No,424,"Bug,Steel",2,Anticipation,1
+Mothim,4,23.3,0.9,Bug,Flying,Swarm,,Tinted Lens,Ordinary,No,424,"Bug,Flying",2,Swarm,1
+Combee,4,5.5,0.3,Bug,Flying,Honey Gather,,Hustle,Ordinary,No,244,"Bug,Flying",2,Honey Gather,1
+Vespiquen,4,38.5,1.2,Bug,Flying,Pressure,,Unnerve,Ordinary,No,474,"Bug,Flying",2,Pressure,1
+Pachirisu,4,3.9,0.4,Electric,,Run Away,Pickup,Volt Absorb,Ordinary,No,405,No,1,"Pickup,Run Away",2
+Buizel,4,29.5,0.7,Water,,Swift Swim,,Water Veil,Ordinary,No,330,No,1,Swift Swim,1
+Floatzel,4,33.5,1.1,Water,,Swift Swim,,Water Veil,Ordinary,No,495,No,1,Swift Swim,1
+Cherubi,4,3.3,0.4,Grass,,Chlorophyll,,No,Ordinary,No,275,No,1,Chlorophyll,1
+Cherrim,4,9.3,0.5,Grass,,Flower Gift,,No,Ordinary,No,450,No,1,Flower Gift,1
+Cherrim Sunshine Form,4,9.3,0.5,Grass,,Flower Gift,,No,Ordinary,No,450,No,1,Flower Gift,1
+Shellos East-Sea Form,4,6.3,0.3,Water,,Sticky Hold,Storm Drain,Sand Force,Ordinary,No,325,No,1,"Sticky Hold,Storm Drain",2
+Shellos West-Sea Form,4,6.3,0.3,Water,,Sticky Hold,Storm Drain,Sand Force,Ordinary,No,325,No,1,"Sticky Hold,Storm Drain",2
+Gastrodon East-Sea Form,4,29.9,0.9,Water,Ground,Sticky Hold,Storm Drain,Sand Force,Ordinary,No,475,"Ground,Water",2,"Sticky Hold,Storm Drain",2
+Gastrodon West-Sea Form,4,29.9,0.9,Water,Ground,Sticky Hold,Storm Drain,Sand Force,Ordinary,No,475,"Ground,Water",2,"Sticky Hold,Storm Drain",2
+Ambipom,4,20.3,1.2,Normal,,Technician,Pickup,Skill Link,Ordinary,No,482,No,1,"Pickup,Technician",2
+Drifloon,4,1.2,0.4,Ghost,Flying,Aftermath,Unburden,Flare Boost,Ordinary,No,348,"Flying,Ghost",2,"Aftermath,Unburden",2
+Drifblim,4,15.0,1.2,Ghost,Flying,Aftermath,Unburden,Flare Boost,Ordinary,No,498,"Flying,Ghost",2,"Aftermath,Unburden",2
+Buneary,4,5.5,0.4,Normal,,Run Away,Klutz,Limber,Ordinary,No,350,No,1,"Klutz,Run Away",2
+Lopunny,4,33.3,1.2,Normal,,Cute Charm,Klutz,Limber,Ordinary,No,480,No,1,"Cute Charm,Klutz",2
+Mega Lopunny,4,28.3,1.3,Normal,Fighting,Scrappy,,No,Ordinary,Yes,580,"Fighting,Normal",2,Scrappy,1
+Mismagius,4,4.4,0.9,Ghost,,Levitate,,No,Ordinary,No,495,No,1,Levitate,1
+Honchkrow,4,27.3,0.9,Dark,Flying,Insomnia,Super Luck,Moxie,Ordinary,No,505,"Dark,Flying",2,"Insomnia,Super Luck",2
+Glameow,4,3.9,0.5,Normal,,Limber,Own Tempo,Keen Eye,Ordinary,No,310,No,1,"Limber,Own Tempo",2
+Purugly,4,43.8,1.0,Normal,,Thick Fat,Own Tempo,Defiant,Ordinary,No,452,No,1,"Own Tempo,Thick Fat",2
+Chingling,4,0.6,0.2,Psychic,,Levitate,,No,Ordinary,No,285,No,1,Levitate,1
+Stunky,4,19.2,0.4,Poison,Dark,Stench,Aftermath,Keen Eye,Ordinary,No,329,"Dark,Poison",2,"Aftermath,Stench",2
+Skuntank,4,38.0,1.0,Poison,Dark,Stench,Aftermath,Keen Eye,Ordinary,No,479,"Dark,Poison",2,"Aftermath,Stench",2
+Bronzor,4,60.5,0.5,Steel,Psychic,Levitate,Heatproof,Heavy Metal,Ordinary,No,300,"Psychic,Steel",2,"Heatproof,Levitate",2
+Bronzong,4,187.0,1.3,Steel,Psychic,Levitate,Heatproof,Heavy Metal,Ordinary,No,500,"Psychic,Steel",2,"Heatproof,Levitate",2
+Bonsly,4,15.0,0.5,Rock,,Sturdy,Rock Head,Rattled,Ordinary,No,290,No,1,"Rock Head,Sturdy",2
+Mime Jr.,4,13.0,0.6,Psychic,Fairy,Soundproof,Filter,Technician,Ordinary,No,310,"Fairy,Psychic",2,"Filter,Soundproof",2
+Happiny,4,24.4,0.6,Normal,,Natural Cure,Serene Grace,Friend Guard,Ordinary,No,220,No,1,"Natural Cure,Serene Grace",2
+Chatot,4,1.9,0.5,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Ordinary,No,411,"Flying,Normal",2,"Keen Eye,Tangled Feet",2
+Spiritomb,4,108.0,1.0,Ghost,Dark,Pressure,,Infiltrator,Ordinary,No,485,"Dark,Ghost",2,Pressure,1
+Gible,4,20.5,0.7,Dragon,Ground,Sand Veil,,Rough Skin,Ordinary,No,300,"Dragon,Ground",2,Sand Veil,1
+Gabite,4,56.0,1.4,Dragon,Ground,Sand Veil,,Rough Skin,Ordinary,No,410,"Dragon,Ground",2,Sand Veil,1
+Garchomp,4,95.0,1.9,Dragon,Ground,Sand Veil,,Rough Skin,Ordinary,No,600,"Dragon,Ground",2,Sand Veil,1
+Mega Garchomp,4,95.0,1.9,Dragon,Ground,Sand Force,,No,Ordinary,Yes,700,"Dragon,Ground",2,Sand Force,1
+Munchlax,4,105.0,0.6,Normal,,Pickup,Thick Fat,Gluttony,Ordinary,No,390,No,1,"Pickup,Thick Fat",2
+Riolu,4,20.2,0.7,Fighting,,Steadfast,Inner Focus,Prankster,Ordinary,No,285,No,1,"Inner Focus,Steadfast",2
+Lucario,4,54.0,1.2,Fighting,Steel,Steadfast,Inner Focus,Justified,Ordinary,No,525,"Fighting,Steel",2,"Inner Focus,Steadfast",2
+Mega Lucario,4,57.5,1.3,Fighting,Steel,Adaptability,,No,Ordinary,Yes,625,"Fighting,Steel",2,Adaptability,1
+Hippopotas,4,49.5,0.8,Ground,,Sand Stream,,Sand Force,Ordinary,No,330,No,1,Sand Stream,1
+Hippowdon,4,300.0,2.0,Ground,,Sand Stream,,Sand Force,Ordinary,No,525,No,1,Sand Stream,1
+Skorupi,4,12.0,0.8,Poison,Bug,Battle Armor,Sniper,Keen Eye,Ordinary,No,330,"Bug,Poison",2,"Battle Armor,Sniper",2
+Drapion,4,61.5,1.3,Poison,Dark,Battle Armor,Sniper,Keen Eye,Ordinary,No,500,"Dark,Poison",2,"Battle Armor,Sniper",2
+Croagunk,4,23.0,0.7,Poison,Fighting,Anticipation,Dry Skin,Poison Touch,Ordinary,No,300,"Fighting,Poison",2,"Anticipation,Dry Skin",2
+Toxicroak,4,44.4,1.3,Poison,Fighting,Anticipation,Dry Skin,Poison Touch,Ordinary,No,490,"Fighting,Poison",2,"Anticipation,Dry Skin",2
+Carnivine,4,27.0,1.4,Grass,,Levitate,,No,Ordinary,No,454,No,1,Levitate,1
+Finneon,4,7.0,0.4,Water,,Swift Swim,Storm Drain,Water Veil,Ordinary,No,330,No,1,"Storm Drain,Swift Swim",2
+Lumineon,4,24.0,1.2,Water,,Swift Swim,Storm Drain,Water Veil,Ordinary,No,460,No,1,"Storm Drain,Swift Swim",2
+Mantyke,4,65.0,1.0,Water,Flying,Swift Swim,Water Absorb,Water Veil,Ordinary,No,345,"Flying,Water",2,"Swift Swim,Water Absorb",2
+Snover,4,50.5,1.0,Grass,Ice,Snow Warning,,Soundproof,Ordinary,No,334,"Grass,Ice",2,Snow Warning,1
+Abomasnow,4,135.5,2.2,Grass,Ice,Snow Warning,,Soundproof,Ordinary,No,494,"Grass,Ice",2,Snow Warning,1
+Mega Abomasnow,4,185.0,2.7,Grass,Ice,Snow Warning,,No,Ordinary,Yes,594,"Grass,Ice",2,Snow Warning,1
+Weavile,4,34.0,1.1,Dark,Ice,Pressure,,Pickpocket,Ordinary,No,510,"Dark,Ice",2,Pressure,1
+Magnezone,4,180.0,1.2,Electric,Steel,Magnet Pull,Sturdy,Analytic,Ordinary,No,535,"Electric,Steel",2,"Magnet Pull,Sturdy",2
+Lickilicky,4,140.0,1.7,Normal,,Own Tempo,Oblivious,Cloud Nine,Ordinary,No,515,No,1,"Oblivious,Own Tempo",2
+Rhyperior,4,282.8,2.4,Ground,Rock,Lightning Rod,Solid Rock,Reckless,Ordinary,No,535,"Ground,Rock",2,"Lightning Rod,Solid Rock",2
+Tangrowth,4,128.6,2.0,Grass,,Chlorophyll,Leaf Guard,Regenerator,Ordinary,No,535,No,1,"Chlorophyll,Leaf Guard",2
+Electivire,4,138.6,1.8,Electric,,Motor Drive,,Vital Spirit,Ordinary,No,540,No,1,Motor Drive,1
+Magmortar,4,68.0,1.6,Fire,,Flame Body,,Vital Spirit,Ordinary,No,540,No,1,Flame Body,1
+Togekiss,4,38.0,1.5,Fairy,Flying,Hustle,Serene Grace,Super Luck,Ordinary,No,545,"Fairy,Flying",2,"Hustle,Serene Grace",2
+Yanmega,4,51.5,1.9,Bug,Flying,Speed Boost,Tinted Lens,Frisk,Ordinary,No,515,"Bug,Flying",2,"Speed Boost,Tinted Lens",2
+Leafeon,4,25.5,1.0,Grass,,Leaf Guard,,Chlorophyll,Ordinary,No,525,No,1,Leaf Guard,1
+Glaceon,4,25.9,0.8,Ice,,Snow Cloak,,Ice Body,Ordinary,No,525,No,1,Snow Cloak,1
+Gliscor,4,42.5,2.0,Ground,Flying,Hyper Cutter,Sand Veil,Poison Heal,Ordinary,No,510,"Flying,Ground",2,"Hyper Cutter,Sand Veil",2
+Mamoswine,4,291.0,2.5,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Ordinary,No,530,"Ground,Ice",2,"Oblivious,Snow Cloak",2
+Porygon-Z,4,34.0,0.9,Normal,,Adaptability,Download,Analytic,Ordinary,No,535,No,1,"Adaptability,Download",2
+Gallade,4,52.0,1.6,Psychic,Fighting,Steadfast,Sharpness,Justified,Ordinary,No,518,"Fighting,Psychic",2,"Sharpness,Steadfast",2
+Mega Gallade,4,56.4,1.6,Psychic,Fighting,Inner Focus,,No,Ordinary,Yes,618,"Fighting,Psychic",2,Inner Focus,1
+Probopass,4,340.0,1.4,Rock,Steel,Sturdy,Magnet Pull,Sand Force,Ordinary,No,525,"Rock,Steel",2,"Magnet Pull,Sturdy",2
+Dusknoir,4,106.6,2.2,Ghost,,Pressure,,Frisk,Ordinary,No,525,No,1,Pressure,1
+Froslass,4,26.6,1.3,Ice,Ghost,Snow Cloak,,Cursed Body,Ordinary,No,480,"Ghost,Ice",2,Snow Cloak,1
+Rotom,4,0.3,0.3,Electric,Ghost,Levitate,,No,Ordinary,No,440,"Electric,Ghost",2,Levitate,1
+Heat Rotom,4,0.3,0.3,Electric,Fire,Levitate,,No,Ordinary,No,520,"Electric,Fire",2,Levitate,1
+Wash Rotom,4,0.3,0.3,Electric,Water,Levitate,,No,Ordinary,No,520,"Electric,Water",2,Levitate,1
+Frost Rotom,4,0.3,0.3,Electric,Ice,Levitate,,No,Ordinary,No,520,"Electric,Ice",2,Levitate,1
+Fan Rotom,4,0.3,0.3,Electric,Flying,Levitate,,No,Ordinary,No,520,"Electric,Flying",2,Levitate,1
+Mow Rotom,4,0.3,0.3,Electric,Grass,Levitate,,No,Ordinary,No,520,"Electric,Grass",2,Levitate,1
+Uxie,4,0.3,0.3,Psychic,,Levitate,,No,Semi-Legendary,No,580,No,1,Levitate,1
+Mesprit,4,0.3,0.3,Psychic,,Levitate,,No,Semi-Legendary,No,580,No,1,Levitate,1
+Azelf,4,0.3,0.3,Psychic,,Levitate,,No,Semi-Legendary,No,580,No,1,Levitate,1
+Dialga,4,683.0,5.4,Steel,Dragon,Pressure,,Telepathy,Legendary,No,680,"Dragon,Steel",2,Pressure,1
+Dialga Origin Form,4,850.0,7.0,Steel,Dragon,Pressure,,Telepathy,Legendary,No,680,"Dragon,Steel",2,Pressure,1
+Palkia,4,336.0,4.2,Water,Dragon,Pressure,,Telepathy,Legendary,No,680,"Dragon,Water",2,Pressure,1
+Palkia Origin Form,4,660.0,6.3,Water,Dragon,Pressure,,Telepathy,Legendary,No,680,"Dragon,Water",2,Pressure,1
+Heatran,4,430.0,1.7,Fire,Steel,Flash Fire,,Flame Body,Semi-Legendary,No,600,"Fire,Steel",2,Flash Fire,1
+Regigigas,4,420.0,3.7,Normal,,Slow Start,,No,Semi-Legendary,No,670,No,1,Slow Start,1
+Giratina,4,750.0,4.5,Ghost,Dragon,Pressure,,Telepathy,Legendary,No,680,"Dragon,Ghost",2,Pressure,1
+Giratina Origin Form,4,650.0,6.9,Ghost,Dragon,Levitate,,No,Legendary,No,680,"Dragon,Ghost",2,Levitate,1
+Cresselia,4,85.6,1.5,Psychic,,Levitate,,No,Semi-Legendary,No,580,No,1,Levitate,1
+Phione,4,3.1,0.4,Water,,Hydration,,No,Mythical,No,480,No,1,Hydration,1
+Manaphy,4,1.4,0.3,Water,,Hydration,,No,Mythical,No,600,No,1,Hydration,1
+Darkrai,4,50.5,1.5,Dark,,Bad Dreams,,No,Mythical,No,600,No,1,Bad Dreams,1
+Shaymin Land Form,4,2.1,0.2,Grass,,Natural Cure,,No,Mythical,No,600,No,1,Natural Cure,1
+Shaymin Sky Form,4,5.2,0.4,Grass,Flying,Serene Grace,,No,Mythical,No,600,"Flying,Grass",2,Serene Grace,1
+Arceus,4,320.0,3.2,Normal,,Multitype,,No,Mythical,No,720,No,1,Multitype,1
+Victini,5,4.0,0.4,Psychic,Fire,Victory Star,,No,Mythical,No,600,"Fire,Psychic",2,Victory Star,1
+Snivy,5,8.1,0.6,Grass,,Overgrow,,Contrary,Ordinary,No,308,No,1,Overgrow,1
+Servine,5,16.0,0.8,Grass,,Overgrow,,Contrary,Ordinary,No,413,No,1,Overgrow,1
+Serperior,5,63.0,3.3,Grass,,Overgrow,,Contrary,Ordinary,No,528,No,1,Overgrow,1
+Tepig,5,9.9,0.5,Fire,,Blaze,,Thick Fat,Ordinary,No,308,No,1,Blaze,1
+Pignite,5,55.5,1.0,Fire,Fighting,Blaze,,Thick Fat,Ordinary,No,418,"Fighting,Fire",2,Blaze,1
+Emboar,5,150.0,1.6,Fire,Fighting,Blaze,,Reckless,Ordinary,No,528,"Fighting,Fire",2,Blaze,1
+Oshawott,5,5.9,0.5,Water,,Torrent,,Shell Armor,Ordinary,No,308,No,1,Torrent,1
+Dewott,5,24.5,0.8,Water,,Torrent,,Shell Armor,Ordinary,No,413,No,1,Torrent,1
+Samurott,5,94.6,1.5,Water,,Torrent,,Shell Armor,Ordinary,No,528,No,1,Torrent,1
+Hisuian Samurott,8,58.2,1.5,Water,Dark,Torrent,,Sharpness,Ordinary,No,528,"Dark,Water",2,Torrent,1
+Patrat,5,11.6,0.5,Normal,,Run Away,Keen Eye,Analytic,Ordinary,No,255,No,1,"Keen Eye,Run Away",2
+Watchog,5,27.0,1.1,Normal,,Illuminate,Keen Eye,Analytic,Ordinary,No,420,No,1,"Illuminate,Keen Eye",2
+Lillipup,5,4.1,0.4,Normal,,Vital Spirit,Pickup,Run Away,Ordinary,No,275,No,1,"Pickup,Vital Spirit",2
+Herdier,5,14.7,0.9,Normal,,Intimidate,Sand Rush,Scrappy,Ordinary,No,370,No,1,"Intimidate,Sand Rush",2
+Stoutland,5,61.0,1.2,Normal,,Intimidate,Sand Rush,Scrappy,Ordinary,No,500,No,1,"Intimidate,Sand Rush",2
+Purrloin,5,10.1,0.4,Dark,,Limber,Unburden,Prankster,Ordinary,No,281,No,1,"Limber,Unburden",2
+Liepard,5,37.5,1.1,Dark,,Limber,Unburden,Prankster,Ordinary,No,446,No,1,"Limber,Unburden",2
+Pansage,5,10.5,0.6,Grass,,Gluttony,,Overgrow,Ordinary,No,316,No,1,Gluttony,1
+Simisage,5,30.5,1.1,Grass,,Gluttony,,Overgrow,Ordinary,No,498,No,1,Gluttony,1
+Pansear,5,11.0,0.6,Fire,,Gluttony,,Blaze,Ordinary,No,316,No,1,Gluttony,1
+Simisear,5,28.0,1.0,Fire,,Gluttony,,Blaze,Ordinary,No,498,No,1,Gluttony,1
+Panpour,5,13.5,0.6,Water,,Gluttony,,Torrent,Ordinary,No,316,No,1,Gluttony,1
+Simipour,5,29.0,1.0,Water,,Gluttony,,Torrent,Ordinary,No,498,No,1,Gluttony,1
+Munna,5,23.3,0.6,Psychic,,Forewarn,Synchronize,Telepathy,Ordinary,No,292,No,1,"Forewarn,Synchronize",2
+Musharna,5,60.5,1.1,Psychic,,Forewarn,Synchronize,Telepathy,Ordinary,No,487,No,1,"Forewarn,Synchronize",2
+Pidove,5,2.1,0.3,Normal,Flying,Big Pecks,Super Luck,Rivalry,Ordinary,No,264,"Flying,Normal",2,"Big Pecks,Super Luck",2
+Tranquill,5,15.0,0.6,Normal,Flying,Big Pecks,Super Luck,Rivalry,Ordinary,No,358,"Flying,Normal",2,"Big Pecks,Super Luck",2
+Unfezant,5,29.0,1.2,Normal,Flying,Big Pecks,Super Luck,Rivalry,Ordinary,No,488,"Flying,Normal",2,"Big Pecks,Super Luck",2
+Blitzle,5,29.8,0.8,Electric,,Lightning Rod,Motor Drive,Sap Sipper,Ordinary,No,295,No,1,"Lightning Rod,Motor Drive",2
+Zebstrika,5,79.5,1.6,Electric,,Lightning Rod,Motor Drive,Sap Sipper,Ordinary,No,497,No,1,"Lightning Rod,Motor Drive",2
+Roggenrola,5,18.0,0.4,Rock,,Sturdy,Weak Armor,Sand Force,Ordinary,No,280,No,1,"Sturdy,Weak Armor",2
+Boldore,5,102.0,0.9,Rock,,Sturdy,Weak Armor,Sand Force,Ordinary,No,390,No,1,"Sturdy,Weak Armor",2
+Gigalith,5,260.0,1.7,Rock,,Sturdy,Sand Stream,Sand Force,Ordinary,No,515,No,1,"Sand Stream,Sturdy",2
+Woobat,5,2.1,0.4,Psychic,Flying,Unaware,Klutz,Simple,Ordinary,No,323,"Flying,Psychic",2,"Klutz,Unaware",2
+Swoobat,5,10.5,0.9,Psychic,Flying,Unaware,Klutz,Simple,Ordinary,No,425,"Flying,Psychic",2,"Klutz,Unaware",2
+Drilbur,5,8.5,0.3,Ground,,Sand Rush,Sand Force,Mold Breaker,Ordinary,No,328,No,1,"Sand Force,Sand Rush",2
+Excadrill,5,40.4,0.7,Ground,Steel,Sand Rush,Sand Force,Mold Breaker,Ordinary,No,508,"Ground,Steel",2,"Sand Force,Sand Rush",2
+Audino,5,31.0,1.1,Normal,,Healer,Regenerator,Klutz,Ordinary,No,445,No,1,"Healer,Regenerator",2
+Mega Audino,5,32.0,1.5,Normal,Fairy,Healer,,No,Ordinary,Yes,545,"Fairy,Normal",2,Healer,1
+Timburr,5,12.5,0.6,Fighting,,Guts,Sheer Force,Iron Fist,Ordinary,No,305,No,1,"Guts,Sheer Force",2
+Gurdurr,5,40.0,1.2,Fighting,,Guts,Sheer Force,Iron Fist,Ordinary,No,405,No,1,"Guts,Sheer Force",2
+Conkeldurr,5,87.0,1.4,Fighting,,Guts,Sheer Force,Iron Fist,Ordinary,No,505,No,1,"Guts,Sheer Force",2
+Tympole,5,4.5,0.5,Water,,Swift Swim,Hydration,Water Absorb,Ordinary,No,294,No,1,"Hydration,Swift Swim",2
+Palpitoad,5,17.0,0.8,Water,Ground,Swift Swim,Hydration,Water Absorb,Ordinary,No,384,"Ground,Water",2,"Hydration,Swift Swim",2
+Seismitoad,5,62.0,1.5,Water,Ground,Swift Swim,Poison Touch,Water Absorb,Ordinary,No,509,"Ground,Water",2,"Poison Touch,Swift Swim",2
+Throh,5,55.5,1.3,Fighting,,Guts,Inner Focus,Mold Breaker,Ordinary,No,465,No,1,"Guts,Inner Focus",2
+Sawk,5,51.0,1.4,Fighting,,Sturdy,Inner Focus,Mold Breaker,Ordinary,No,465,No,1,"Inner Focus,Sturdy",2
+Sewaddle,5,2.5,0.3,Bug,Grass,Swarm,Chlorophyll,Overcoat,Ordinary,No,310,"Bug,Grass",2,"Chlorophyll,Swarm",2
+Swadloon,5,7.3,0.5,Bug,Grass,Leaf Guard,Chlorophyll,Overcoat,Ordinary,No,380,"Bug,Grass",2,"Chlorophyll,Leaf Guard",2
+Leavanny,5,20.5,1.2,Bug,Grass,Swarm,Chlorophyll,Overcoat,Ordinary,No,500,"Bug,Grass",2,"Chlorophyll,Swarm",2
+Venipede,5,5.3,0.4,Bug,Poison,Poison Point,Swarm,Speed Boost,Ordinary,No,260,"Bug,Poison",2,"Poison Point,Swarm",2
+Whirlipede,5,58.5,1.2,Bug,Poison,Poison Point,Swarm,Speed Boost,Ordinary,No,360,"Bug,Poison",2,"Poison Point,Swarm",2
+Scolipede,5,200.5,2.5,Bug,Poison,Poison Point,Swarm,Speed Boost,Ordinary,No,485,"Bug,Poison",2,"Poison Point,Swarm",2
+Cottonee,5,0.6,0.3,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,Ordinary,No,280,"Fairy,Grass",2,"Infiltrator,Prankster",2
+Whimsicott,5,6.6,0.7,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,Ordinary,No,480,"Fairy,Grass",2,"Infiltrator,Prankster",2
+Petilil,5,6.6,0.5,Grass,,Chlorophyll,Own Tempo,Leaf Guard,Ordinary,No,280,No,1,"Chlorophyll,Own Tempo",2
+Lilligant,5,16.3,1.1,Grass,,Chlorophyll,Own Tempo,Leaf Guard,Ordinary,No,480,No,1,"Chlorophyll,Own Tempo",2
+Hisuian Lilligant,8,19.2,1.2,Grass,Fighting,Chlorophyll,Hustle,Leaf Guard,Ordinary,No,480,"Fighting,Grass",2,"Chlorophyll,Hustle",2
+Basculin Red Stripe,5,18.0,1.0,Water,,Reckless,Adaptability,Mold Breaker,Ordinary,No,460,No,1,"Adaptability,Reckless",2
+Basculin Blue Stripe,5,18.0,1.0,Water,,Rock Head,Adaptability,Mold Breaker,Ordinary,No,460,No,1,"Adaptability,Rock Head",2
+Hisuian Basculin,8,18.0,1.0,Water,,Rattled,Adaptability,Mold Breaker,Ordinary,No,460,No,1,"Adaptability,Rattled",2
+Sandile,5,15.2,0.7,Ground,Dark,Intimidate,Moxie,Anger Point,Ordinary,No,292,"Dark,Ground",2,"Intimidate,Moxie",2
+Krokorok,5,33.4,1.0,Ground,Dark,Intimidate,Moxie,Anger Point,Ordinary,No,351,"Dark,Ground",2,"Intimidate,Moxie",2
+Krookodile,5,96.3,1.5,Ground,Dark,Intimidate,Moxie,Anger Point,Ordinary,No,519,"Dark,Ground",2,"Intimidate,Moxie",2
+Darumaka,5,37.5,0.6,Fire,,Hustle,,Inner Focus,Ordinary,No,315,No,1,Hustle,1
+Galarian Darumaka,8,40.0,0.7,Ice,,Hustle,,Inner Focus,Ordinary,No,315,No,1,Hustle,1
+Darmanitan,5,92.9,1.3,Fire,,Sheer Force,,Zen Mode,Ordinary,No,480,No,1,Sheer Force,1
+Darmanitan Zen-Mode,5,92.9,1.3,Fire,Psychic,Sheer Force,,Zen Mode,Ordinary,No,540,"Fire,Psychic",2,Sheer Force,1
+Galarian Darmanitan,8,120.0,1.7,Ice,,Gorilla Tactics,,Zen Mode,Ordinary,No,480,No,1,Gorilla Tactics,1
+Galarian Darmanitan Zen-Mode,8,120.0,1.7,Ice,Fire,Gorilla Tactics,,Zen Mode,Ordinary,No,540,"Fire,Ice",2,Gorilla Tactics,1
+Maractus,5,28.0,1.0,Grass,,Water Absorb,Chlorophyll,Storm Drain,Ordinary,No,461,No,1,"Chlorophyll,Water Absorb",2
+Dwebble,5,14.5,0.3,Bug,Rock,Sturdy,Shell Armor,Weak Armor,Ordinary,No,325,"Bug,Rock",2,"Shell Armor,Sturdy",2
+Crustle,5,200.0,1.4,Bug,Rock,Sturdy,Shell Armor,Weak Armor,Ordinary,No,485,"Bug,Rock",2,"Shell Armor,Sturdy",2
+Scraggy,5,11.8,0.6,Dark,Fighting,Shed Skin,Moxie,Intimidate,Ordinary,No,348,"Dark,Fighting",2,"Moxie,Shed Skin",2
+Scrafty,5,30.0,1.1,Dark,Fighting,Shed Skin,Moxie,Intimidate,Ordinary,No,488,"Dark,Fighting",2,"Moxie,Shed Skin",2
+Sigilyph,5,14.0,1.4,Psychic,Flying,Wonder Skin,Magic Guard,Tinted Lens,Ordinary,No,490,"Flying,Psychic",2,"Magic Guard,Wonder Skin",2
+Yamask,5,1.5,0.5,Ghost,,Mummy,,No,Ordinary,No,303,No,1,Mummy,1
+Galarian Yamask,8,1.5,0.5,Ground,Ghost,Wandering Spirit,,No,Ordinary,No,303,"Ghost,Ground",2,Wandering Spirit,1
+Cofagrigus,5,76.5,1.7,Ghost,,Mummy,,No,Ordinary,No,483,No,1,Mummy,1
+Tirtouga,5,16.5,0.7,Water,Rock,Solid Rock,Sturdy,Swift Swim,Ordinary,No,355,"Rock,Water",2,"Solid Rock,Sturdy",2
+Carracosta,5,81.0,1.2,Water,Rock,Solid Rock,Sturdy,Swift Swim,Ordinary,No,495,"Rock,Water",2,"Solid Rock,Sturdy",2
+Archen,5,9.5,0.5,Rock,Flying,Defeatist,,No,Ordinary,No,401,"Flying,Rock",2,Defeatist,1
+Archeops,5,32.0,1.4,Rock,Flying,Defeatist,,No,Ordinary,No,567,"Flying,Rock",2,Defeatist,1
+Trubbish,5,31.0,0.6,Poison,,Stench,Sticky Hold,Aftermath,Ordinary,No,329,No,1,"Stench,Sticky Hold",2
+Garbodor,5,107.3,1.9,Poison,,Stench,Weak Armor,Aftermath,Ordinary,No,474,No,1,"Stench,Weak Armor",2
+Zorua,5,12.5,0.7,Dark,,Illusion,,No,Ordinary,No,330,No,1,Illusion,1
+Hisuian Zorua,8,12.5,0.7,Normal,Ghost,Illusion,,No,Ordinary,No,330,"Ghost,Normal",2,Illusion,1
+Zoroark,5,81.1,1.6,Dark,,Illusion,,No,Ordinary,No,510,No,1,Illusion,1
+Hisuian Zoroark,8,73.0,1.6,Normal,Ghost,Illusion,,No,Ordinary,No,510,"Ghost,Normal",2,Illusion,1
+Minccino,5,5.8,0.4,Normal,,Cute Charm,Technician,Skill Link,Ordinary,No,300,No,1,"Cute Charm,Technician",2
+Cinccino,5,7.5,0.5,Normal,,Cute Charm,Technician,Skill Link,Ordinary,No,470,No,1,"Cute Charm,Technician",2
+Gothita,5,5.8,0.4,Psychic,,Frisk,Competitive,Shadow Tag,Ordinary,No,290,No,1,"Competitive,Frisk",2
+Gothorita,5,18.0,0.7,Psychic,,Frisk,Competitive,Shadow Tag,Ordinary,No,390,No,1,"Competitive,Frisk",2
+Gothitelle,5,44.0,1.5,Psychic,,Frisk,Competitive,Shadow Tag,Ordinary,No,490,No,1,"Competitive,Frisk",2
+Solosis,5,1.0,0.3,Psychic,,Overcoat,Magic Guard,Regenerator,Ordinary,No,290,No,1,"Magic Guard,Overcoat",2
+Duosion,5,8.0,0.6,Psychic,,Overcoat,Magic Guard,Regenerator,Ordinary,No,370,No,1,"Magic Guard,Overcoat",2
+Reuniclus,5,20.1,1.0,Psychic,,Overcoat,Magic Guard,Regenerator,Ordinary,No,490,No,1,"Magic Guard,Overcoat",2
+Ducklett,5,5.5,0.5,Water,Flying,Keen Eye,Big Pecks,Hydration,Ordinary,No,305,"Flying,Water",2,"Big Pecks,Keen Eye",2
+Swanna,5,24.2,1.3,Water,Flying,Keen Eye,Big Pecks,Hydration,Ordinary,No,473,"Flying,Water",2,"Big Pecks,Keen Eye",2
+Vanillite,5,5.7,0.4,Ice,,Ice Body,Snow Cloak,Weak Armor,Ordinary,No,305,No,1,"Ice Body,Snow Cloak",2
+Vanillish,5,41.0,1.1,Ice,,Ice Body,Snow Cloak,Weak Armor,Ordinary,No,395,No,1,"Ice Body,Snow Cloak",2
+Vanilluxe,5,57.5,1.3,Ice,,Ice Body,Snow Warning,Weak Armor,Ordinary,No,535,No,1,"Ice Body,Snow Warning",2
+Deerling Spring Form,5,19.5,0.6,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Ordinary,No,335,"Grass,Normal",2,"Chlorophyll,Sap Sipper",2
+Deerling Summer Form,5,19.5,0.6,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Ordinary,No,335,"Grass,Normal",2,"Chlorophyll,Sap Sipper",2
+Deerling Autumn Form,5,19.5,0.6,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Ordinary,No,335,"Grass,Normal",2,"Chlorophyll,Sap Sipper",2
+Deerling Winter Form,5,19.5,0.6,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Ordinary,No,335,"Grass,Normal",2,"Chlorophyll,Sap Sipper",2
+Sawsbuck,5,92.5,1.9,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Ordinary,No,475,"Grass,Normal",2,"Chlorophyll,Sap Sipper",2
+Emolga,5,5.0,0.4,Electric,Flying,Static,,Motor Drive,Ordinary,No,428,"Electric,Flying",2,Static,1
+Karrablast,5,5.9,0.5,Bug,,Swarm,Shed Skin,No Guard,Ordinary,No,315,No,1,"Shed Skin,Swarm",2
+Escavalier,5,33.0,1.0,Bug,Steel,Swarm,Shell Armor,Overcoat,Ordinary,No,495,"Bug,Steel",2,"Shell Armor,Swarm",2
+Foongus,5,1.0,0.2,Grass,Poison,Effect Spore,,Regenerator,Ordinary,No,294,"Grass,Poison",2,Effect Spore,1
+Amoonguss,5,10.5,0.6,Grass,Poison,Effect Spore,,Regenerator,Ordinary,No,464,"Grass,Poison",2,Effect Spore,1
+Frillish,5,33.0,1.2,Water,Ghost,Water Absorb,Cursed Body,Damp,Ordinary,No,335,"Ghost,Water",2,"Cursed Body,Water Absorb",2
+Jellicent,5,135.0,2.2,Water,Ghost,Water Absorb,Cursed Body,Damp,Ordinary,No,480,"Ghost,Water",2,"Cursed Body,Water Absorb",2
+Alomomola,5,31.6,1.2,Water,,Healer,Hydration,Regenerator,Ordinary,No,470,No,1,"Healer,Hydration",2
+Joltik,5,0.6,0.1,Bug,Electric,Compound Eyes,Unnerve,Swarm,Ordinary,No,319,"Bug,Electric",2,"Compound Eyes,Unnerve",2
+Galvantula,5,14.3,0.8,Bug,Electric,Compound Eyes,Unnerve,Swarm,Ordinary,No,472,"Bug,Electric",2,"Compound Eyes,Unnerve",2
+Ferroseed,5,18.8,0.6,Grass,Steel,Iron Barbs,,No,Ordinary,No,305,"Grass,Steel",2,Iron Barbs,1
+Ferrothorn,5,110.0,1.0,Grass,Steel,Iron Barbs,,Anticipation,Ordinary,No,489,"Grass,Steel",2,Iron Barbs,1
+Klink,5,21.0,0.3,Steel,,Plus,Minus,Clear Body,Ordinary,No,300,No,1,"Minus,Plus",2
+Klang,5,51.0,0.6,Steel,,Plus,Minus,Clear Body,Ordinary,No,440,No,1,"Minus,Plus",2
+Klinklang,5,81.0,0.6,Steel,,Plus,Minus,Clear Body,Ordinary,No,520,No,1,"Minus,Plus",2
+Tynamo,5,0.3,0.2,Electric,,Levitate,,No,Ordinary,No,275,No,1,Levitate,1
+Eelektrik,5,22.0,1.2,Electric,,Levitate,,No,Ordinary,No,405,No,1,Levitate,1
+Eelektross,5,80.5,2.1,Electric,,Levitate,,No,Ordinary,No,515,No,1,Levitate,1
+Elgyem,5,9.0,0.5,Psychic,,Telepathy,Synchronize,Analytic,Ordinary,No,335,No,1,"Synchronize,Telepathy",2
+Beheeyem,5,34.5,1.0,Psychic,,Telepathy,Synchronize,Analytic,Ordinary,No,485,No,1,"Synchronize,Telepathy",2
+Litwick,5,3.1,0.3,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,Ordinary,No,275,"Fire,Ghost",2,"Flame Body,Flash Fire",2
+Lampent,5,13.0,0.6,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,Ordinary,No,370,"Fire,Ghost",2,"Flame Body,Flash Fire",2
+Chandelure,5,34.3,1.0,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,Ordinary,No,520,"Fire,Ghost",2,"Flame Body,Flash Fire",2
+Axew,5,18.0,0.6,Dragon,,Rivalry,Mold Breaker,Unnerve,Ordinary,No,320,No,1,"Mold Breaker,Rivalry",2
+Fraxure,5,36.0,1.0,Dragon,,Rivalry,Mold Breaker,Unnerve,Ordinary,No,410,No,1,"Mold Breaker,Rivalry",2
+Haxorus,5,105.5,1.8,Dragon,,Rivalry,Mold Breaker,Unnerve,Ordinary,No,540,No,1,"Mold Breaker,Rivalry",2
+Cubchoo,5,8.5,0.5,Ice,,Snow Cloak,Slush Rush,Rattled,Ordinary,No,305,No,1,"Slush Rush,Snow Cloak",2
+Beartic,5,260.0,2.6,Ice,,Snow Cloak,Slush Rush,Swift Swim,Ordinary,No,505,No,1,"Slush Rush,Snow Cloak",2
+Cryogonal,5,148.0,1.1,Ice,,Levitate,,No,Ordinary,No,515,No,1,Levitate,1
+Shelmet,5,7.7,0.4,Bug,,Hydration,Shell Armor,Overcoat,Ordinary,No,305,No,1,"Hydration,Shell Armor",2
+Accelgor,5,25.3,0.8,Bug,,Hydration,Sticky Hold,Unburden,Ordinary,No,495,No,1,"Hydration,Sticky Hold",2
+Stunfisk,5,11.0,0.7,Ground,Electric,Static,Limber,Sand Veil,Ordinary,No,471,"Electric,Ground",2,"Limber,Static",2
+Galarian Stunfisk,8,20.5,0.7,Ground,Steel,Mimicry,,No,Ordinary,No,471,"Ground,Steel",2,Mimicry,1
+Mienfoo,5,20.0,0.9,Fighting,,Inner Focus,Regenerator,Reckless,Ordinary,No,350,No,1,"Inner Focus,Regenerator",2
+Mienshao,5,35.5,1.4,Fighting,,Inner Focus,Regenerator,Reckless,Ordinary,No,510,No,1,"Inner Focus,Regenerator",2
+Druddigon,5,139.0,1.6,Dragon,,Rough Skin,Sheer Force,Mold Breaker,Ordinary,No,485,No,1,"Rough Skin,Sheer Force",2
+Golett,5,92.0,1.0,Ground,Ghost,Iron Fist,Klutz,No Guard,Ordinary,No,303,"Ghost,Ground",2,"Iron Fist,Klutz",2
+Golurk,5,330.0,2.8,Ground,Ghost,Iron Fist,Klutz,No Guard,Ordinary,No,483,"Ghost,Ground",2,"Iron Fist,Klutz",2
+Pawniard,5,10.2,0.5,Dark,Steel,Defiant,Inner Focus,Pressure,Ordinary,No,340,"Dark,Steel",2,"Defiant,Inner Focus",2
+Bisharp,5,70.0,1.6,Dark,Steel,Defiant,Inner Focus,Pressure,Ordinary,No,490,"Dark,Steel",2,"Defiant,Inner Focus",2
+Bouffalant,5,94.6,1.6,Normal,,Reckless,Sap Sipper,Soundproof,Ordinary,No,490,No,1,"Reckless,Sap Sipper",2
+Rufflet,5,10.5,0.5,Normal,Flying,Keen Eye,Sheer Force,Hustle,Ordinary,No,350,"Flying,Normal",2,"Keen Eye,Sheer Force",2
+Braviary,5,41.0,1.5,Normal,Flying,Keen Eye,Sheer Force,Defiant,Ordinary,No,510,"Flying,Normal",2,"Keen Eye,Sheer Force",2
+Hisuian Braviary,8,43.4,1.7,Psychic,Flying,Keen Eye,Sheer Force,Tinted Lens,Ordinary,No,510,"Flying,Psychic",2,"Keen Eye,Sheer Force",2
+Vullaby,5,9.0,0.5,Dark,Flying,Big Pecks,Overcoat,Weak Armor,Ordinary,No,370,"Dark,Flying",2,"Big Pecks,Overcoat",2
+Mandibuzz,5,39.5,1.2,Dark,Flying,Big Pecks,Overcoat,Weak Armor,Ordinary,No,510,"Dark,Flying",2,"Big Pecks,Overcoat",2
+Heatmor,5,58.0,1.4,Fire,,Gluttony,Flash Fire,White Smoke,Ordinary,No,484,No,1,"Flash Fire,Gluttony",2
+Durant,5,33.0,0.3,Bug,Steel,Swarm,Hustle,Truant,Ordinary,No,484,"Bug,Steel",2,"Hustle,Swarm",2
+Deino,5,17.3,0.8,Dark,Dragon,Hustle,,No,Ordinary,No,300,"Dark,Dragon",2,Hustle,1
+Zweilous,5,50.0,1.4,Dark,Dragon,Hustle,,No,Ordinary,No,420,"Dark,Dragon",2,Hustle,1
+Hydreigon,5,160.0,1.8,Dark,Dragon,Levitate,,No,Ordinary,No,600,"Dark,Dragon",2,Levitate,1
+Larvesta,5,28.8,1.1,Bug,Fire,Flame Body,,Swarm,Ordinary,No,360,"Bug,Fire",2,Flame Body,1
+Volcarona,5,46.0,1.6,Bug,Fire,Flame Body,,Swarm,Ordinary,No,550,"Bug,Fire",2,Flame Body,1
+Cobalion,5,250.0,2.1,Steel,Fighting,Justified,,No,Semi-Legendary,No,580,"Fighting,Steel",2,Justified,1
+Terrakion,5,260.0,1.9,Rock,Fighting,Justified,,No,Semi-Legendary,No,580,"Fighting,Rock",2,Justified,1
+Virizion,5,200.0,2.0,Grass,Fighting,Justified,,No,Semi-Legendary,No,580,"Fighting,Grass",2,Justified,1
+Tornadus Incarnate Form,5,63.0,1.5,Flying,,Prankster,,Defiant,Semi-Legendary,No,580,No,1,Prankster,1
+Tornadus Therian Form,5,63.0,1.4,Flying,,Regenerator,,No,Semi-Legendary,No,580,No,1,Regenerator,1
+Thundurus Incarnate Form,5,61.0,1.5,Electric,Flying,Prankster,,Defiant,Semi-Legendary,No,580,"Electric,Flying",2,Prankster,1
+Thundurus Therian Form,5,61.0,3.0,Electric,Flying,Volt Absorb,,No,Semi-Legendary,No,580,"Electric,Flying",2,Volt Absorb,1
+Reshiram,5,330.0,3.2,Dragon,Fire,Turboblaze,,No,Legendary,No,680,"Dragon,Fire",2,Turboblaze,1
+Zekrom,5,345.0,2.9,Dragon,Electric,Teravolt,,No,Legendary,No,680,"Dragon,Electric",2,Teravolt,1
+Landorus Incarnate Form,5,68.0,1.5,Ground,Flying,Sand Force,,Sheer Force,Semi-Legendary,No,600,"Flying,Ground",2,Sand Force,1
+Landorus Therian Form,5,68.0,1.3,Ground,Flying,Intimidate,,No,Semi-Legendary,No,600,"Flying,Ground",2,Intimidate,1
+Kyurem,5,325.0,3.0,Dragon,Ice,Pressure,,No,Legendary,No,660,"Dragon,Ice",2,Pressure,1
+White Kyurem,5,325.0,3.6,Dragon,Ice,Turboblaze,,No,Legendary,No,700,"Dragon,Ice",2,Turboblaze,1
+Black Kyurem,5,325.0,3.3,Dragon,Ice,Teravolt,,No,Legendary,No,700,"Dragon,Ice",2,Teravolt,1
+Keldeo Ordinary Form,5,48.5,1.4,Water,Fighting,Justified,,No,Mythical,No,580,"Fighting,Water",2,Justified,1
+Keldeo Resolute Form,5,48.5,1.4,Water,Fighting,Justified,,No,Mythical,No,580,"Fighting,Water",2,Justified,1
+Meloetta Aria Form,5,6.5,0.6,Normal,Psychic,Serene Grace,,No,Mythical,No,600,"Normal,Psychic",2,Serene Grace,1
+Meloetta Pirouette Form,5,6.5,0.6,Normal,Fighting,Serene Grace,,No,Mythical,No,600,"Fighting,Normal",2,Serene Grace,1
+Genesect,5,82.5,1.5,Bug,Steel,Download,,No,Mythical,No,600,"Bug,Steel",2,Download,1
+Chespin,6,9.0,0.4,Grass,,Overgrow,,Bulletproof,Ordinary,No,313,No,1,Overgrow,1
+Quilladin,6,29.0,0.7,Grass,,Overgrow,,Bulletproof,Ordinary,No,405,No,1,Overgrow,1
+Chesnaught,6,90.0,1.6,Grass,Fighting,Overgrow,,Bulletproof,Ordinary,No,530,"Fighting,Grass",2,Overgrow,1
+Fennekin,6,9.4,0.4,Fire,,Blaze,,Magician,Ordinary,No,307,No,1,Blaze,1
+Braixen,6,14.5,1.0,Fire,,Blaze,,Magician,Ordinary,No,409,No,1,Blaze,1
+Delphox,6,39.0,1.5,Fire,Psychic,Blaze,,Magician,Ordinary,No,534,"Fire,Psychic",2,Blaze,1
+Froakie,6,7.0,0.3,Water,,Torrent,,Protean,Ordinary,No,314,No,1,Torrent,1
+Frogadier,6,10.9,0.6,Water,,Torrent,,Protean,Ordinary,No,405,No,1,Torrent,1
+Greninja,6,40.0,1.5,Water,Dark,Torrent,,Protean,Ordinary,No,530,"Dark,Water",2,Torrent,1
+Ash Greninja,6,40.0,1.5,Water,Dark,Battle Bond,,No,Ordinary,No,640,"Dark,Water",2,Battle Bond,1
+Bunnelby,6,5.0,0.4,Normal,,Pickup,Cheek Pouch,Huge Power,Ordinary,No,237,No,1,"Cheek Pouch,Pickup",2
+Diggersby,6,42.4,1.0,Normal,Ground,Pickup,Cheek Pouch,Huge Power,Ordinary,No,423,"Ground,Normal",2,"Cheek Pouch,Pickup",2
+Fletchling,6,1.7,0.3,Normal,Flying,Big Pecks,,Gale Wings,Ordinary,No,278,"Flying,Normal",2,Big Pecks,1
+Fletchinder,6,16.0,0.7,Fire,Flying,Flame Body,,Gale Wings,Ordinary,No,382,"Fire,Flying",2,Flame Body,1
+Talonflame,6,24.5,1.2,Fire,Flying,Flame Body,,Gale Wings,Ordinary,No,499,"Fire,Flying",2,Flame Body,1
+Scatterbug,6,2.5,0.3,Bug,,Shield Dust,Compound Eyes,Friend Guard,Ordinary,No,200,No,1,"Compound Eyes,Shield Dust",2
+Spewpa,6,8.4,0.3,Bug,,Shed Skin,,Friend Guard,Ordinary,No,213,No,1,Shed Skin,1
+Vivillon,6,17.0,1.2,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,Ordinary,No,411,"Bug,Flying",2,"Compound Eyes,Shield Dust",2
+Litleo,6,13.5,0.6,Fire,Normal,Rivalry,Unnerve,Moxie,Ordinary,No,369,"Fire,Normal",2,"Rivalry,Unnerve",2
+Pyroar,6,81.5,1.5,Fire,Normal,Rivalry,Unnerve,Moxie,Ordinary,No,507,"Fire,Normal",2,"Rivalry,Unnerve",2
+Flabebe,6,0.1,0.1,Fairy,,Flower Veil,,Symbiosis,Ordinary,No,303,No,1,Flower Veil,1
+Floette,6,0.9,0.2,Fairy,,Flower Veil,,Symbiosis,Ordinary,No,371,No,1,Flower Veil,1
+Florges,6,10.0,1.1,Fairy,,Flower Veil,,Symbiosis,Ordinary,No,552,No,1,Flower Veil,1
+Skiddo,6,31.0,0.9,Grass,,Sap Sipper,,Grass Pelt,Ordinary,No,350,No,1,Sap Sipper,1
+Gogoat,6,91.0,1.7,Grass,,Sap Sipper,,Grass Pelt,Ordinary,No,531,No,1,Sap Sipper,1
+Pancham,6,8.0,0.6,Fighting,,Iron Fist,Mold Breaker,Scrappy,Ordinary,No,348,No,1,"Iron Fist,Mold Breaker",2
+Pangoro,6,136.0,2.1,Fighting,Dark,Iron Fist,Mold Breaker,Scrappy,Ordinary,No,495,"Dark,Fighting",2,"Iron Fist,Mold Breaker",2
+Furfrou,6,28.0,1.2,Normal,,Fur Coat,,No,Ordinary,No,472,No,1,Fur Coat,1
+Espurr,6,3.5,0.3,Psychic,,Keen Eye,Infiltrator,Own Tempo,Ordinary,No,355,No,1,"Infiltrator,Keen Eye",2
+Meowstic Male,6,8.5,0.6,Psychic,,Keen Eye,Infiltrator,Prankster,Ordinary,No,466,No,1,"Infiltrator,Keen Eye",2
+Meowstic Female,6,8.5,0.6,Psychic,,Keen Eye,Infiltrator,Competitive,Ordinary,No,466,No,1,"Infiltrator,Keen Eye",2
+Honedge,6,2.0,0.8,Steel,Ghost,No Guard,,No,Ordinary,No,325,"Ghost,Steel",2,No Guard,1
+Doublade,6,4.5,0.8,Steel,Ghost,No Guard,,No,Ordinary,No,448,"Ghost,Steel",2,No Guard,1
+Aegislash Shield Form,6,53.0,1.7,Steel,Ghost,Stance Change,,No,Ordinary,No,500,"Ghost,Steel",2,Stance Change,1
+Aegislash Blade Form,6,53.0,1.7,Steel,Ghost,Stance Change,,No,Ordinary,No,500,"Ghost,Steel",2,Stance Change,1
+Spritzee,6,0.5,0.2,Fairy,,Healer,,Aroma Veil,Ordinary,No,341,No,1,Healer,1
+Aromatisse,6,15.5,0.8,Fairy,,Healer,,Aroma Veil,Ordinary,No,462,No,1,Healer,1
+Swirlix,6,3.5,0.4,Fairy,,Sweet Veil,,Unburden,Ordinary,No,341,No,1,Sweet Veil,1
+Slurpuff,6,5.0,0.8,Fairy,,Sweet Veil,,Unburden,Ordinary,No,480,No,1,Sweet Veil,1
+Inkay,6,3.5,0.4,Dark,Psychic,Contrary,Suction Cups,Infiltrator,Ordinary,No,288,"Dark,Psychic",2,"Contrary,Suction Cups",2
+Malamar,6,47.0,1.5,Dark,Psychic,Contrary,Suction Cups,Infiltrator,Ordinary,No,482,"Dark,Psychic",2,"Contrary,Suction Cups",2
+Binacle,6,31.0,0.5,Rock,Water,Tough Claws,Sniper,Pickpocket,Ordinary,No,306,"Rock,Water",2,"Sniper,Tough Claws",2
+Barbaracle,6,96.0,1.3,Rock,Water,Tough Claws,Sniper,Pickpocket,Ordinary,No,500,"Rock,Water",2,"Sniper,Tough Claws",2
+Skrelp,6,7.3,0.5,Poison,Water,Poison Point,Poison Touch,Adaptability,Ordinary,No,320,"Poison,Water",2,"Poison Point,Poison Touch",2
+Dragalge,6,81.5,1.8,Poison,Dragon,Poison Point,Poison Touch,Adaptability,Ordinary,No,494,"Dragon,Poison",2,"Poison Point,Poison Touch",2
+Clauncher,6,8.3,0.5,Water,,Mega Launcher,,No,Ordinary,No,330,No,1,Mega Launcher,1
+Clawitzer,6,35.3,1.3,Water,,Mega Launcher,,No,Ordinary,No,500,No,1,Mega Launcher,1
+Helioptile,6,6.0,0.5,Electric,Normal,Dry Skin,Sand Veil,Solar Power,Ordinary,No,289,"Electric,Normal",2,"Dry Skin,Sand Veil",2
+Heliolisk,6,21.0,1.0,Electric,Normal,Dry Skin,Sand Veil,Solar Power,Ordinary,No,481,"Electric,Normal",2,"Dry Skin,Sand Veil",2
+Tyrunt,6,26.0,0.8,Rock,Dragon,Strong Jaw,,Sturdy,Ordinary,No,362,"Dragon,Rock",2,Strong Jaw,1
+Tyrantrum,6,270.0,2.5,Rock,Dragon,Strong Jaw,,Rock Head,Ordinary,No,521,"Dragon,Rock",2,Strong Jaw,1
+Amaura,6,25.2,1.3,Rock,Ice,Refrigerate,,Snow Warning,Ordinary,No,362,"Ice,Rock",2,Refrigerate,1
+Aurorus,6,225.0,2.7,Rock,Ice,Refrigerate,,Snow Warning,Ordinary,No,521,"Ice,Rock",2,Refrigerate,1
+Sylveon,6,23.5,1.0,Fairy,,Cute Charm,,Pixilate,Ordinary,No,525,No,1,Cute Charm,1
+Hawlucha,6,21.5,0.8,Fighting,Flying,Limber,Unburden,Mold Breaker,Ordinary,No,500,"Fighting,Flying",2,"Limber,Unburden",2
+Dedenne,6,2.2,0.2,Electric,Fairy,Cheek Pouch,Pickup,Plus,Ordinary,No,431,"Electric,Fairy",2,"Cheek Pouch,Pickup",2
+Carbink,6,5.7,0.3,Rock,Fairy,Clear Body,,Sturdy,Ordinary,No,500,"Fairy,Rock",2,Clear Body,1
+Goomy,6,2.8,0.3,Dragon,,Sap Sipper,Hydration,Gooey,Ordinary,No,300,No,1,"Hydration,Sap Sipper",2
+Sliggoo,6,17.5,0.8,Dragon,,Sap Sipper,Hydration,Gooey,Ordinary,No,452,No,1,"Hydration,Sap Sipper",2
+Hisuian Sliggoo,8,68.5,0.7,Steel,Dragon,Sap Sipper,Shell Armor,Gooey,Ordinary,No,452,"Dragon,Steel",2,"Sap Sipper,Shell Armor",2
+Goodra,6,150.5,2.0,Dragon,,Sap Sipper,Hydration,Gooey,Ordinary,No,600,No,1,"Hydration,Sap Sipper",2
+Hisuian Goodra,8,334.1,1.7,Steel,Dragon,Sap Sipper,Shell Armor,Gooey,Ordinary,No,600,"Dragon,Steel",2,"Sap Sipper,Shell Armor",2
+Klefki,6,3.0,0.2,Steel,Fairy,Prankster,,Magician,Ordinary,No,470,"Fairy,Steel",2,Prankster,1
+Phantump,6,7.0,0.4,Ghost,Grass,Natural Cure,Frisk,Harvest,Ordinary,No,309,"Ghost,Grass",2,"Frisk,Natural Cure",2
+Trevenant,6,71.0,1.5,Ghost,Grass,Natural Cure,Frisk,Harvest,Ordinary,No,474,"Ghost,Grass",2,"Frisk,Natural Cure",2
+Pumpkaboo Small,6,5.0,0.4,Ghost,Grass,Pickup,Frisk,Insomnia,Ordinary,No,335,"Ghost,Grass",2,"Frisk,Pickup",2
+Pumpkaboo Average,6,3.5,0.3,Ghost,Grass,Pickup,Frisk,Insomnia,Ordinary,No,335,"Ghost,Grass",2,"Frisk,Pickup",2
+Pumpkaboo Large,6,7.5,0.5,Ghost,Grass,Pickup,Frisk,Insomnia,Ordinary,No,335,"Ghost,Grass",2,"Frisk,Pickup",2
+Pumpkaboo Super,6,15.0,0.8,Ghost,Grass,Pickup,Frisk,Insomnia,Ordinary,No,335,"Ghost,Grass",2,"Frisk,Pickup",2
+Gourgeist Small,6,12.5,0.9,Ghost,Grass,Pickup,Frisk,Insomnia,Ordinary,No,494,"Ghost,Grass",2,"Frisk,Pickup",2
+Gourgeist Average,6,9.5,0.7,Ghost,Grass,Pickup,Frisk,Insomnia,Ordinary,No,494,"Ghost,Grass",2,"Frisk,Pickup",2
+Gourgeist Large,6,14.0,1.1,Ghost,Grass,Pickup,Frisk,Insomnia,Ordinary,No,494,"Ghost,Grass",2,"Frisk,Pickup",2
+Gourgeist Super,6,39.0,1.7,Ghost,Grass,Pickup,Frisk,Insomnia,Ordinary,No,494,"Ghost,Grass",2,"Frisk,Pickup",2
+Bergmite,6,99.5,1.0,Ice,,Own Tempo,Ice Body,Sturdy,Ordinary,No,304,No,1,"Ice Body,Own Tempo",2
+Avalugg,6,505.0,2.0,Ice,,Own Tempo,Ice Body,Sturdy,Ordinary,No,514,No,1,"Ice Body,Own Tempo",2
+Hisuian Avalugg,8,262.4,1.4,Ice,Rock,Strong Jaw,Ice Body,Sturdy,Ordinary,No,514,"Ice,Rock",2,"Ice Body,Strong Jaw",2
+Noibat,6,8.0,0.5,Flying,Dragon,Frisk,Infiltrator,Telepathy,Ordinary,No,245,"Dragon,Flying",2,"Frisk,Infiltrator",2
+Noivern,6,85.0,1.5,Flying,Dragon,Frisk,Infiltrator,Telepathy,Ordinary,No,535,"Dragon,Flying",2,"Frisk,Infiltrator",2
+Xerneas,6,215.0,3.0,Fairy,,Fairy Aura,,No,Legendary,No,680,No,1,Fairy Aura,1
+Yveltal,6,203.0,5.8,Dark,Flying,Dark Aura,,No,Legendary,No,680,"Dark,Flying",2,Dark Aura,1
+Zygarde 50% Form,6,305.0,5.0,Dragon,Ground,Aura Break,,No,Legendary,No,600,"Dragon,Ground",2,Aura Break,1
+Zygarde 10% Form,6,33.5,1.2,Dragon,Ground,Aura Break,,No,Legendary,No,486,"Dragon,Ground",2,Aura Break,1
+Zygarde Complete Form,6,610.0,4.5,Dragon,Ground,Power Construct,,No,Legendary,No,708,"Dragon,Ground",2,Power Construct,1
+Diancie,6,8.8,0.7,Rock,Fairy,Clear Body,,No,Mythical,No,600,"Fairy,Rock",2,Clear Body,1
+Mega Diancie,6,27.8,1.1,Rock,Fairy,Magic Bounce,,No,Mythical,Yes,700,"Fairy,Rock",2,Magic Bounce,1
+Confined Hoopa,6,9.0,0.5,Psychic,Ghost,Magician,,No,Mythical,No,600,"Ghost,Psychic",2,Magician,1
+Unbound Hoopa,6,490.0,6.5,Psychic,Dark,Magician,,No,Mythical,No,680,"Dark,Psychic",2,Magician,1
+Volcanion,6,195.0,1.7,Fire,Water,Water Absorb,,No,Mythical,No,600,"Fire,Water",2,Water Absorb,1
+Rowlet,7,1.5,0.3,Grass,Flying,Overgrow,,Long Reach,Ordinary,No,320,"Flying,Grass",2,Overgrow,1
+Dartrix,7,16.0,0.7,Grass,Flying,Overgrow,,Long Reach,Ordinary,No,420,"Flying,Grass",2,Overgrow,1
+Decidueye,7,36.6,1.6,Grass,Ghost,Overgrow,,Long Reach,Ordinary,No,530,"Ghost,Grass",2,Overgrow,1
+Hisuian Decidueye,8,37.0,1.6,Grass,Fighting,Overgrow,,Scrappy,Ordinary,No,530,"Fighting,Grass",2,Overgrow,1
+Litten,7,4.3,0.4,Fire,,Blaze,,Intimidate,Ordinary,No,320,No,1,Blaze,1
+Torracat,7,25.0,0.7,Fire,,Blaze,,Intimidate,Ordinary,No,420,No,1,Blaze,1
+Incineroar,7,83.0,1.8,Fire,Dark,Blaze,,Intimidate,Ordinary,No,530,"Dark,Fire",2,Blaze,1
+Popplio,7,7.5,0.4,Water,,Torrent,,Liquid Voice,Ordinary,No,320,No,1,Torrent,1
+Brionne,7,17.5,0.6,Water,,Torrent,,Liquid Voice,Ordinary,No,420,No,1,Torrent,1
+Primarina,7,44.0,1.8,Water,Fairy,Torrent,,Liquid Voice,Ordinary,No,530,"Fairy,Water",2,Torrent,1
+Pikipek,7,1.2,0.3,Normal,Flying,Keen Eye,Skill Link,Pickup,Ordinary,No,265,"Flying,Normal",2,"Keen Eye,Skill Link",2
+Trumbeak,7,14.8,0.6,Normal,Flying,Keen Eye,Skill Link,Pickup,Ordinary,No,355,"Flying,Normal",2,"Keen Eye,Skill Link",2
+Toucannon,7,26.0,1.1,Normal,Flying,Keen Eye,Skill Link,Sheer Force,Ordinary,No,485,"Flying,Normal",2,"Keen Eye,Skill Link",2
+Yungoos,7,6.0,0.4,Normal,,Stakeout,Strong Jaw,Adaptability,Ordinary,No,253,No,1,"Stakeout,Strong Jaw",2
+Gumshoos,7,14.2,0.7,Normal,,Stakeout,Strong Jaw,Adaptability,Ordinary,No,418,No,1,"Stakeout,Strong Jaw",2
+Grubbin,7,4.4,0.4,Bug,,Swarm,,No,Ordinary,No,300,No,1,Swarm,1
+Charjabug,7,10.5,0.5,Bug,Electric,Battery,,No,Ordinary,No,400,"Bug,Electric",2,Battery,1
+Vikavolt,7,45.0,1.5,Bug,Electric,Levitate,,No,Ordinary,No,500,"Bug,Electric",2,Levitate,1
+Crabrawler,7,7.0,0.6,Fighting,,Hyper Cutter,Iron Fist,Anger Point,Ordinary,No,338,No,1,"Hyper Cutter,Iron Fist",2
+Crabominable,7,180.0,1.7,Fighting,Ice,Hyper Cutter,Iron Fist,Anger Point,Ordinary,No,478,"Fighting,Ice",2,"Hyper Cutter,Iron Fist",2
+Oricorio Baile Style,7,3.4,0.6,Fire,Flying,Dancer,,No,Ordinary,No,476,"Fire,Flying",2,Dancer,1
+Oricorio Pom-Pom Style,7,3.4,0.6,Electric,Flying,Dancer,,No,Ordinary,No,476,"Electric,Flying",2,Dancer,1
+Oricorio Pa'u Style,7,3.4,0.6,Psychic,Flying,Dancer,,No,Ordinary,No,476,"Flying,Psychic",2,Dancer,1
+Oricorio Sensu Style,7,3.4,0.6,Ghost,Flying,Dancer,,No,Ordinary,No,476,"Flying,Ghost",2,Dancer,1
+Cutiefly,7,0.2,0.1,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,Ordinary,No,304,"Bug,Fairy",2,"Honey Gather,Shield Dust",2
+Ribombee,7,0.5,0.2,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,Ordinary,No,464,"Bug,Fairy",2,"Honey Gather,Shield Dust",2
+Rockruff,7,9.2,0.5,Rock,,Keen Eye,Vital Spirit,Steadfast,Ordinary,No,280,No,1,"Keen Eye,Vital Spirit",2
+Lycanroc Midday Form,7,25.0,0.8,Rock,,Keen Eye,Sand Rush,Steadfast,Ordinary,No,487,No,1,"Keen Eye,Sand Rush",2
+Lycanroc Midnight Form,7,25.0,1.1,Rock,,Keen Eye,Vital Spirit,No Guard,Ordinary,No,487,No,1,"Keen Eye,Vital Spirit",2
+Lycanroc Dusk Form,7,25.0,0.8,Rock,,Tough Claws,,No,Ordinary,No,487,No,1,Tough Claws,1
+Wishiwashi Solo Form,7,0.3,0.2,Water,,Schooling,,No,Ordinary,No,175,No,1,Schooling,1
+Wishiwashi School Form,7,78.6,8.2,Water,,Schooling,,No,Ordinary,No,620,No,1,Schooling,1
+Mareanie,7,8.0,0.4,Poison,Water,Merciless,Limber,Regenerator,Ordinary,No,305,"Poison,Water",2,"Limber,Merciless",2
+Toxapex,7,14.5,0.7,Poison,Water,Merciless,Limber,Regenerator,Ordinary,No,495,"Poison,Water",2,"Limber,Merciless",2
+Mudbray,7,110.0,1.0,Ground,,Own Tempo,Stamina,Inner Focus,Ordinary,No,385,No,1,"Own Tempo,Stamina",2
+Mudsdale,7,920.0,2.5,Ground,,Own Tempo,Stamina,Inner Focus,Ordinary,No,500,No,1,"Own Tempo,Stamina",2
+Dewpider,7,4.0,0.3,Water,Bug,Water Bubble,,Water Absorb,Ordinary,No,269,"Bug,Water",2,Water Bubble,1
+Araquanid,7,82.0,1.8,Water,Bug,Water Bubble,,Water Absorb,Ordinary,No,454,"Bug,Water",2,Water Bubble,1
+Fomantis,7,1.5,0.3,Grass,,Leaf Guard,,Contrary,Ordinary,No,250,No,1,Leaf Guard,1
+Lurantis,7,18.5,0.9,Grass,,Leaf Guard,,Contrary,Ordinary,No,480,No,1,Leaf Guard,1
+Morelull,7,1.5,0.2,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,Ordinary,No,285,"Fairy,Grass",2,"Effect Spore,Illuminate",2
+Shiinotic,7,11.5,1.0,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,Ordinary,No,405,"Fairy,Grass",2,"Effect Spore,Illuminate",2
+Salandit,7,4.8,0.6,Poison,Fire,Corrosion,,Oblivious,Ordinary,No,320,"Fire,Poison",2,Corrosion,1
+Salazzle,7,22.2,1.2,Poison,Fire,Corrosion,,Oblivious,Ordinary,No,480,"Fire,Poison",2,Corrosion,1
+Stufful,7,6.8,0.5,Normal,Fighting,Fluffy,Klutz,Cute Charm,Ordinary,No,340,"Fighting,Normal",2,"Fluffy,Klutz",2
+Bewear,7,135.0,2.1,Normal,Fighting,Fluffy,Klutz,Unnerve,Ordinary,No,500,"Fighting,Normal",2,"Fluffy,Klutz",2
+Bounsweet,7,3.2,0.3,Grass,,Leaf Guard,Oblivious,Sweet Veil,Ordinary,No,210,No,1,"Leaf Guard,Oblivious",2
+Steenee,7,8.2,0.7,Grass,,Leaf Guard,Oblivious,Sweet Veil,Ordinary,No,290,No,1,"Leaf Guard,Oblivious",2
+Tsareena,7,21.4,1.2,Grass,,Leaf Guard,Queenly Majesty,Sweet Veil,Ordinary,No,510,No,1,"Leaf Guard,Queenly Majesty",2
+Comfey,7,0.3,0.1,Fairy,,Flower Veil,Triage,Natural Cure,Ordinary,No,485,No,1,"Flower Veil,Triage",2
+Oranguru,7,76.0,1.5,Normal,Psychic,Inner Focus,Telepathy,Symbiosis,Ordinary,No,490,"Normal,Psychic",2,"Inner Focus,Telepathy",2
+Passimian,7,82.8,2.0,Fighting,,Receiver,,Defiant,Ordinary,No,490,No,1,Receiver,1
+Wimpod,7,12.0,0.5,Bug,Water,Wimp Out,,No,Ordinary,No,230,"Bug,Water",2,Wimp Out,1
+Golisopod,7,108.0,2.0,Bug,Water,Emergency Exit,,No,Ordinary,No,530,"Bug,Water",2,Emergency Exit,1
+Sandygast,7,70.0,0.5,Ghost,Ground,Water Compaction,,Sand Veil,Ordinary,No,320,"Ghost,Ground",2,Water Compaction,1
+Palossand,7,250.0,1.3,Ghost,Ground,Water Compaction,,Sand Veil,Ordinary,No,480,"Ghost,Ground",2,Water Compaction,1
+Pyukumuku,7,1.2,0.3,Water,,Innards Out,,Unaware,Ordinary,No,410,No,1,Innards Out,1
+Type: Null,7,120.5,1.9,Normal,,Battle Armor,,No,Semi-Legendary,No,534,No,1,Battle Armor,1
+Silvally,7,100.5,2.3,Normal,,RKS System,,No,Semi-Legendary,No,570,No,1,RKS System,1
+Minior Meteor Form,7,40.0,0.3,Rock,Flying,Shields Down,,No,Ordinary,No,440,"Flying,Rock",2,Shields Down,1
+Minior Red Core,7,0.3,0.3,Rock,Flying,Shields Down,,No,Ordinary,No,500,"Flying,Rock",2,Shields Down,1
+Minior Orange Core,7,0.3,0.3,Rock,Flying,Shields Down,,No,Ordinary,No,500,"Flying,Rock",2,Shields Down,1
+Minior Yellow Core,7,0.3,0.3,Rock,Flying,Shields Down,,No,Ordinary,No,500,"Flying,Rock",2,Shields Down,1
+Minior Green Core,7,0.3,0.3,Rock,Flying,Shields Down,,No,Ordinary,No,500,"Flying,Rock",2,Shields Down,1
+Minior Blue Core,7,0.3,0.3,Rock,Flying,Shields Down,,No,Ordinary,No,500,"Flying,Rock",2,Shields Down,1
+Minior Indigo Core,7,0.3,0.3,Rock,Flying,Shields Down,,No,Ordinary,No,500,"Flying,Rock",2,Shields Down,1
+Minior Purple Core,7,0.3,0.3,Rock,Flying,Shields Down,,No,Ordinary,No,500,"Flying,Rock",2,Shields Down,1
+Komala,7,19.9,0.4,Normal,,Comatose,,No,Ordinary,No,480,No,1,Comatose,1
+Turtonator,7,212.0,2.0,Fire,Dragon,Shell Armor,,No,Ordinary,No,485,"Dragon,Fire",2,Shell Armor,1
+Togedemaru,7,3.3,0.3,Electric,Steel,Iron Barbs,Lightning Rod,Sturdy,Ordinary,No,435,"Electric,Steel",2,"Iron Barbs,Lightning Rod",2
+Mimikyu,7,0.7,0.2,Ghost,Fairy,Disguise,,No,Ordinary,No,476,"Fairy,Ghost",2,Disguise,1
+Bruxish,7,19.0,0.9,Water,Psychic,Dazzling,Strong Jaw,Wonder Skin,Ordinary,No,475,"Psychic,Water",2,"Dazzling,Strong Jaw",2
+Drampa,7,185.0,3.0,Normal,Dragon,Berserk,Sap Sipper,Cloud Nine,Ordinary,No,485,"Dragon,Normal",2,"Berserk,Sap Sipper",2
+Dhelmise,7,210.0,3.9,Ghost,Grass,Steelworker,,No,Ordinary,No,517,"Ghost,Grass",2,Steelworker,1
+Jangmo-o,7,29.7,0.6,Dragon,,Bulletproof,Soundproof,Overcoat,Ordinary,No,300,No,1,"Bulletproof,Soundproof",2
+Hakamo-o,7,47.0,1.2,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,Ordinary,No,420,"Dragon,Fighting",2,"Bulletproof,Soundproof",2
+Kommo-o,7,78.2,1.6,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,Ordinary,No,600,"Dragon,Fighting",2,"Bulletproof,Soundproof",2
+Tapu Koko,7,20.5,1.8,Electric,Fairy,Electric Surge,,Telepathy,Semi-Legendary,No,570,"Electric,Fairy",2,Electric Surge,1
+Tapu Lele,7,18.6,1.2,Psychic,Fairy,Psychic Surge,,Telepathy,Semi-Legendary,No,570,"Fairy,Psychic",2,Psychic Surge,1
+Tapu Bulu,7,45.5,1.9,Grass,Fairy,Grassy Surge,,Telepathy,Semi-Legendary,No,570,"Fairy,Grass",2,Grassy Surge,1
+Tapu Fini,7,21.2,1.3,Water,Fairy,Misty Surge,,Telepathy,Semi-Legendary,No,570,"Fairy,Water",2,Misty Surge,1
+Cosmog,7,0.1,0.2,Psychic,,Unaware,,No,Legendary,No,200,No,1,Unaware,1
+Cosmoem,7,999.9,0.1,Psychic,,Sturdy,,No,Legendary,No,400,No,1,Sturdy,1
+Solgaleo,7,230.0,3.4,Psychic,Steel,Full Metal Body,,No,Legendary,No,680,"Psychic,Steel",2,Full Metal Body,1
+Lunala,7,120.0,4.0,Psychic,Ghost,Shadow Shield,,No,Legendary,No,680,"Ghost,Psychic",2,Shadow Shield,1
+Nihilego,7,55.5,1.2,Rock,Poison,Beast Boost,,No,Semi-Legendary,No,570,"Poison,Rock",2,Beast Boost,1
+Buzzwole,7,333.6,2.4,Bug,Fighting,Beast Boost,,No,Semi-Legendary,No,570,"Bug,Fighting",2,Beast Boost,1
+Pheromosa,7,25.0,1.8,Bug,Fighting,Beast Boost,,No,Semi-Legendary,No,570,"Bug,Fighting",2,Beast Boost,1
+Xurkitree,7,100.0,3.8,Electric,,Beast Boost,,No,Semi-Legendary,No,570,No,1,Beast Boost,1
+Celesteela,7,999.9,9.2,Steel,Flying,Beast Boost,,No,Semi-Legendary,No,570,"Flying,Steel",2,Beast Boost,1
+Kartana,7,0.1,0.3,Grass,Steel,Beast Boost,,No,Semi-Legendary,No,570,"Grass,Steel",2,Beast Boost,1
+Guzzlord,7,888.0,5.5,Dark,Dragon,Beast Boost,,No,Semi-Legendary,No,570,"Dark,Dragon",2,Beast Boost,1
+Necrozma,7,230.0,2.4,Psychic,,Prism Armor,,No,Legendary,No,600,No,1,Prism Armor,1
+Dusk Mane Necrozma,7,460.0,3.8,Psychic,Steel,Prism Armor,,No,Legendary,No,680,"Psychic,Steel",2,Prism Armor,1
+Dawn Wings Necrozma,7,350.0,4.2,Psychic,Ghost,Prism Armor,,No,Legendary,No,680,"Ghost,Psychic",2,Prism Armor,1
+Ultra Necrozma,7,230.0,7.5,Psychic,Dragon,Neuroforce,,No,Legendary,No,754,"Dragon,Psychic",2,Neuroforce,1
+Magearna,7,80.5,1.0,Steel,Fairy,Soul-Heart,,No,Mythical,No,600,"Fairy,Steel",2,Soul-Heart,1
+Marshadow,7,22.2,0.7,Fighting,Ghost,Technician,,No,Mythical,No,600,"Fighting,Ghost",2,Technician,1
+Poipole,7,1.8,0.6,Poison,,Beast Boost,,No,Semi-Legendary,No,420,No,1,Beast Boost,1
+Naganadel,7,150.0,3.6,Poison,Dragon,Beast Boost,,No,Semi-Legendary,No,540,"Dragon,Poison",2,Beast Boost,1
+Stakataka,7,820.0,5.5,Rock,Steel,Beast Boost,,No,Semi-Legendary,No,570,"Rock,Steel",2,Beast Boost,1
+Blacephalon,7,13.0,1.8,Fire,Ghost,Beast Boost,,No,Semi-Legendary,No,570,"Fire,Ghost",2,Beast Boost,1
+Zeraora,7,44.5,1.5,Electric,,Volt Absorb,,No,Mythical,No,600,No,1,Volt Absorb,1
+Meltan,7,8.0,0.2,Steel,,Magnet Pull,,No,Mythical,No,300,No,1,Magnet Pull,1
+Melmetal,7,800.0,2.5,Steel,,Iron Fist,,No,Mythical,No,600,No,1,Iron Fist,1
+Grookey,8,5.0,0.3,Grass,,Overgrow,,Grassy Surge,Ordinary,No,310,No,1,Overgrow,1
+Thwackey,8,14.0,0.7,Grass,,Overgrow,,Grassy Surge,Ordinary,No,420,No,1,Overgrow,1
+Rillaboom,8,90.0,2.1,Grass,,Overgrow,,Grassy Surge,Ordinary,No,530,No,1,Overgrow,1
+Scorbunny,8,4.5,0.3,Fire,,Blaze,,Libero,Ordinary,No,310,No,1,Blaze,1
+Raboot,8,9.0,0.6,Fire,,Blaze,,Libero,Ordinary,No,420,No,1,Blaze,1
+Cinderace,8,33.0,1.4,Fire,,Blaze,,Libero,Ordinary,No,530,No,1,Blaze,1
+Sobble,8,4.0,0.3,Water,,Torrent,,Sniper,Ordinary,No,310,No,1,Torrent,1
+Drizzile,8,11.5,0.7,Water,,Torrent,,Sniper,Ordinary,No,420,No,1,Torrent,1
+Inteleon,8,45.2,1.9,Water,,Torrent,,Sniper,Ordinary,No,530,No,1,Torrent,1
+Skwovet,8,2.5,0.3,Normal,,Cheek Pouch,,Gluttony,Ordinary,No,275,No,1,Cheek Pouch,1
+Greedent,8,6.0,0.6,Normal,,Cheek Pouch,,Gluttony,Ordinary,No,460,No,1,Cheek Pouch,1
+Rookidee,8,1.8,0.2,Flying,,Keen Eye,Unnerve,Big Pecks,Ordinary,No,245,No,1,"Keen Eye,Unnerve",2
+Corvisquire,8,16.0,0.8,Flying,,Keen Eye,Unnerve,Big Pecks,Ordinary,No,365,No,1,"Keen Eye,Unnerve",2
+Corviknight,8,75.0,2.2,Flying,Steel,Pressure,Unnerve,Mirror Armor,Ordinary,No,495,"Flying,Steel",2,"Pressure,Unnerve",2
+Blipbug,8,8.0,0.4,Bug,,Swarm,Compound Eyes,Telepathy,Ordinary,No,180,No,1,"Compound Eyes,Swarm",2
+Dottler,8,19.5,0.4,Bug,Psychic,Swarm,Compound Eyes,Telepathy,Ordinary,No,335,"Bug,Psychic",2,"Compound Eyes,Swarm",2
+Orbeetle,8,40.8,0.4,Bug,Psychic,Swarm,Frisk,Telepathy,Ordinary,No,505,"Bug,Psychic",2,"Frisk,Swarm",2
+Nickit,8,8.9,0.6,Dark,,Run Away,Unburden,Stakeout,Ordinary,No,245,No,1,"Run Away,Unburden",2
+Thievul,8,19.9,1.2,Dark,,Run Away,Unburden,Stakeout,Ordinary,No,455,No,1,"Run Away,Unburden",2
+Gossifleur,8,2.2,0.4,Grass,,Cotton Down,Regenerator,Effect Spore,Ordinary,No,250,No,1,"Cotton Down,Regenerator",2
+Eldegoss,8,2.5,0.5,Grass,,Cotton Down,Regenerator,Effect Spore,Ordinary,No,460,No,1,"Cotton Down,Regenerator",2
+Wooloo,8,6.0,0.6,Normal,,Fluffy,Run Away,Bulletproof,Ordinary,No,270,No,1,"Fluffy,Run Away",2
+Dubwool,8,43.0,1.3,Normal,,Fluffy,Steadfast,Bulletproof,Ordinary,No,490,No,1,"Fluffy,Steadfast",2
+Chewtle,8,8.5,0.3,Water,,Strong Jaw,Shell Armor,Swift Swim,Ordinary,No,284,No,1,"Shell Armor,Strong Jaw",2
+Drednaw,8,115.5,1.0,Water,Rock,Strong Jaw,Shell Armor,Swift Swim,Ordinary,No,485,"Rock,Water",2,"Shell Armor,Strong Jaw",2
+Yamper,8,13.5,0.3,Electric,,Ball Fetch,,Rattled,Ordinary,No,270,No,1,Ball Fetch,1
+Boltund,8,34.0,1.0,Electric,,Strong Jaw,,Competitive,Ordinary,No,490,No,1,Strong Jaw,1
+Rolycoly,8,12.0,0.3,Rock,,Steam Engine,Heatproof,Flash Fire,Ordinary,No,240,No,1,"Heatproof,Steam Engine",2
+Carkol,8,78.0,1.1,Rock,Fire,Steam Engine,Flame Body,Flash Fire,Ordinary,No,410,"Fire,Rock",2,"Flame Body,Steam Engine",2
+Coalossal,8,310.5,2.8,Rock,Fire,Steam Engine,Flame Body,Flash Fire,Ordinary,No,510,"Fire,Rock",2,"Flame Body,Steam Engine",2
+Applin,8,0.5,0.2,Grass,Dragon,Ripen,Gluttony,Bulletproof,Ordinary,No,260,"Dragon,Grass",2,"Gluttony,Ripen",2
+Flapple,8,1.0,0.3,Grass,Dragon,Ripen,Gluttony,Hustle,Ordinary,No,485,"Dragon,Grass",2,"Gluttony,Ripen",2
+Appletun,8,13.0,0.4,Grass,Dragon,Ripen,Gluttony,Thick Fat,Ordinary,No,485,"Dragon,Grass",2,"Gluttony,Ripen",2
+Silicobra,8,7.6,2.2,Ground,,Sand Spit,Shed Skin,Sand Veil,Ordinary,No,315,No,1,"Sand Spit,Shed Skin",2
+Sandaconda,8,65.5,3.8,Ground,,Sand Spit,Shed Skin,Sand Veil,Ordinary,No,510,No,1,"Sand Spit,Shed Skin",2
+Cramorant,8,18.0,0.8,Flying,Water,Gulp Missile,,No,Ordinary,No,475,"Flying,Water",2,Gulp Missile,1
+Arrokuda,8,1.0,0.5,Water,,Swift Swim,,Propeller Tail,Ordinary,No,280,No,1,Swift Swim,1
+Barraskewda,8,30.0,1.3,Water,,Swift Swim,,Propeller Tail,Ordinary,No,490,No,1,Swift Swim,1
+Toxel,8,11.0,0.4,Electric,Poison,Rattled,Static,Klutz,Ordinary,No,242,"Electric,Poison",2,"Rattled,Static",2
+Toxtricity Amped Form,8,40.0,1.6,Electric,Poison,Punk Rock,Plus,Technician,Ordinary,No,502,"Electric,Poison",2,"Plus,Punk Rock",2
+Toxtricity Low-Key Form,8,40.0,1.6,Electric,Poison,Punk Rock,Minus,Technician,Ordinary,No,502,"Electric,Poison",2,"Minus,Punk Rock",2
+Sizzlipede,8,1.0,0.7,Fire,Bug,Flash Fire,White Smoke,Flame Body,Ordinary,No,305,"Bug,Fire",2,"Flash Fire,White Smoke",2
+Centiskorch,8,120.0,3.0,Fire,Bug,Flash Fire,White Smoke,Flame Body,Ordinary,No,525,"Bug,Fire",2,"Flash Fire,White Smoke",2
+Clobbopus,8,4.0,0.6,Fighting,,Limber,,Technician,Ordinary,No,310,No,1,Limber,1
+Grapploct,8,39.0,1.6,Fighting,,Limber,,Technician,Ordinary,No,480,No,1,Limber,1
+Sinistea,8,0.2,0.1,Ghost,,Weak Armor,,Cursed Body,Ordinary,No,308,No,1,Weak Armor,1
+Polteageist,8,0.4,0.2,Ghost,,Weak Armor,,Cursed Body,Ordinary,No,508,No,1,Weak Armor,1
+Hatenna,8,3.4,0.4,Psychic,,Healer,Anticipation,Magic Bounce,Ordinary,No,265,No,1,"Anticipation,Healer",2
+Hattrem,8,4.8,0.6,Psychic,,Healer,Anticipation,Magic Bounce,Ordinary,No,370,No,1,"Anticipation,Healer",2
+Hatterene,8,5.1,2.1,Psychic,Fairy,Healer,Anticipation,Magic Bounce,Ordinary,No,510,"Fairy,Psychic",2,"Anticipation,Healer",2
+Impidimp,8,5.5,0.4,Dark,Fairy,Prankster,Frisk,Pickpocket,Ordinary,No,265,"Dark,Fairy",2,"Frisk,Prankster",2
+Morgrem,8,12.5,0.8,Dark,Fairy,Prankster,Frisk,Pickpocket,Ordinary,No,370,"Dark,Fairy",2,"Frisk,Prankster",2
+Grimmsnarl,8,61.0,1.5,Dark,Fairy,Prankster,Frisk,Pickpocket,Ordinary,No,510,"Dark,Fairy",2,"Frisk,Prankster",2
+Obstagoon,8,46.0,1.6,Dark,Normal,Reckless,Guts,Defiant,Ordinary,No,520,"Dark,Normal",2,"Guts,Reckless",2
+Perrserker,8,28.0,0.8,Steel,,Battle Armor,Tough Claws,Steely Spirit,Ordinary,No,440,No,1,"Battle Armor,Tough Claws",2
+Cursola,8,0.4,1.0,Ghost,,Weak Armor,,Perish Body,Ordinary,No,510,No,1,Weak Armor,1
+Sirfetch'd,8,117.0,0.8,Fighting,,Steadfast,,Scrappy,Ordinary,No,507,No,1,Steadfast,1
+Mr. Rime,8,58.2,1.5,Ice,Psychic,Tangled Feet,Screen Cleaner,Ice Body,Ordinary,No,520,"Ice,Psychic",2,"Screen Cleaner,Tangled Feet",2
+Runerigus,8,66.6,1.6,Ground,Ghost,Wandering Spirit,,No,Ordinary,No,483,"Ghost,Ground",2,Wandering Spirit,1
+Milcery,8,0.3,0.2,Fairy,,Sweet Veil,,Aroma Veil,Ordinary,No,270,No,1,Sweet Veil,1
+Alcremie,8,0.5,0.3,Fairy,,Sweet Veil,,Aroma Veil,Ordinary,No,495,No,1,Sweet Veil,1
+Falinks,8,62.0,3.0,Fighting,,Battle Armor,,Defiant,Ordinary,No,470,No,1,Battle Armor,1
+Pincurchin,8,1.0,0.3,Electric,,Lightning Rod,,Electric Surge,Ordinary,No,435,No,1,Lightning Rod,1
+Snom,8,3.8,0.3,Ice,Bug,Shield Dust,,Ice Scales,Ordinary,No,185,"Bug,Ice",2,Shield Dust,1
+Frosmoth,8,42.0,1.3,Ice,Bug,Shield Dust,,Ice Scales,Ordinary,No,475,"Bug,Ice",2,Shield Dust,1
+Stonjourner,8,520.0,2.5,Rock,,Power Spot,,No,Ordinary,No,470,No,1,Power Spot,1
+Eiscue Ice Face,8,89.0,1.4,Ice,,Ice Face,,No,Ordinary,No,470,No,1,Ice Face,1
+Eiscue Noice Face,8,89.0,1.4,Ice,,Ice Face,,No,Ordinary,No,470,No,1,Ice Face,1
+Indeedee Male,8,28.0,0.9,Psychic,Normal,Inner Focus,Synchronize,Psychic Surge,Ordinary,No,475,"Normal,Psychic",2,"Inner Focus,Synchronize",2
+Indeedee Female,8,28.0,0.9,Psychic,Normal,Own Tempo,Synchronize,Psychic Surge,Ordinary,No,475,"Normal,Psychic",2,"Own Tempo,Synchronize",2
+Morpeko Full Berry Mode,8,3.0,0.3,Electric,Dark,Hunger Switch,,No,Ordinary,No,436,"Dark,Electric",2,Hunger Switch,1
+Morpeko Hangry Mode,8,3.0,0.3,Electric,Dark,Hunger Switch,,No,Ordinary,No,436,"Dark,Electric",2,Hunger Switch,1
+Cufant,8,100.0,1.2,Steel,,Sheer Force,,Heavy Metal,Ordinary,No,330,No,1,Sheer Force,1
+Copperajah,8,650.0,3.0,Steel,,Sheer Force,,Heavy Metal,Ordinary,No,500,No,1,Sheer Force,1
+Dracozolt,8,190.0,1.8,Electric,Dragon,Volt Absorb,Hustle,Sand Rush,Ordinary,No,505,"Dragon,Electric",2,"Hustle,Volt Absorb",2
+Arctozolt,8,150.0,2.3,Electric,Ice,Volt Absorb,Static,Slush Rush,Ordinary,No,505,"Electric,Ice",2,"Static,Volt Absorb",2
+Dracovish,8,215.0,2.3,Water,Dragon,Water Absorb,Strong Jaw,Sand Rush,Ordinary,No,505,"Dragon,Water",2,"Strong Jaw,Water Absorb",2
+Arctovish,8,175.0,2.0,Water,Ice,Water Absorb,Ice Body,Slush Rush,Ordinary,No,505,"Ice,Water",2,"Ice Body,Water Absorb",2
+Duraludon,8,40.0,1.8,Steel,Dragon,Light Metal,Heavy Metal,Stalwart,Ordinary,No,535,"Dragon,Steel",2,"Heavy Metal,Light Metal",2
+Dreepy,8,2.0,0.5,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Ordinary,No,270,"Dragon,Ghost",2,"Clear Body,Infiltrator",2
+Drakloak,8,11.0,1.4,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Ordinary,No,410,"Dragon,Ghost",2,"Clear Body,Infiltrator",2
+Dragapult,8,50.0,3.0,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Ordinary,No,600,"Dragon,Ghost",2,"Clear Body,Infiltrator",2
+Zacian Hero of Many Battles,8,110.0,2.8,Fairy,,Intrepid Sword,,No,Legendary,No,660,No,1,Intrepid Sword,1
+Zacian Crowned Sword,8,355.0,2.8,Fairy,Steel,Intrepid Sword,,No,Legendary,No,700,"Fairy,Steel",2,Intrepid Sword,1
+Zamazenta Hero of Many Battles,8,210.0,2.9,Fighting,,Dauntless Shield,,No,Legendary,No,660,No,1,Dauntless Shield,1
+Zamazenta Crowned Shield,8,785.0,2.9,Fighting,Steel,Dauntless Shield,,No,Legendary,No,700,"Fighting,Steel",2,Dauntless Shield,1
+Eternatus,8,950.0,20.0,Poison,Dragon,Pressure,,No,Legendary,No,690,"Dragon,Poison",2,Pressure,1
+Eternamax Eternatus,8,0.0,100.0,Poison,Dragon,Pressure,,No,Legendary,No,1125,"Dragon,Poison",2,Pressure,1
+Kubfu,8,12.0,0.6,Fighting,,Inner Focus,,No Guard,Semi-Legendary,No,385,No,1,Inner Focus,1
+Urshifu Single Strike Style,8,105.0,1.9,Fighting,Dark,Unseen Fist,,No,Semi-Legendary,No,550,"Dark,Fighting",2,Unseen Fist,1
+Urshifu Rapid Strike Style,8,105.0,1.9,Fighting,Water,Unseen Fist,,No,Semi-Legendary,No,550,"Fighting,Water",2,Unseen Fist,1
+Zarude,8,70.0,1.8,Dark,Grass,Leaf Guard,,No,Mythical,No,600,"Dark,Grass",2,Leaf Guard,1
+Regieleki,8,145.0,1.2,Electric,,Transistor,,No,Semi-Legendary,No,580,No,1,Transistor,1
+Regidrago,8,200.0,2.1,Dragon,,Dragon's Maw,,No,Semi-Legendary,No,580,No,1,Dragon's Maw,1
+Glastrier,8,800.0,2.2,Ice,,Chilling Neigh,,No,Semi-Legendary,No,580,No,1,Chilling Neigh,1
+Spectrier,8,44.5,2.0,Ghost,,Grim Neigh,,No,Semi-Legendary,No,580,No,1,Grim Neigh,1
+Calyrex,8,7.7,1.1,Psychic,Grass,Unnerve,,No,Legendary,No,500,"Grass,Psychic",2,Unnerve,1
+Calyrex Ice Rider,8,809.1,2.4,Psychic,Ice,As One,,No,Legendary,No,680,"Ice,Psychic",2,As One,1
+Calyrex Shadow Rider,8,53.6,2.4,Psychic,Ghost,As One,,No,Legendary,No,680,"Ghost,Psychic",2,As One,1
+Wyrdeer,8,95.1,1.8,Normal,Psychic,Intimidate,Frisk,Sap Sipper,Ordinary,No,525,"Normal,Psychic",2,"Frisk,Intimidate",2
+Kleavor,8,89.0,1.8,Bug,Rock,Swarm,Sheer Force,Sharpness,Ordinary,No,500,"Bug,Rock",2,"Sheer Force,Swarm",2
+Ursaluna,8,290.0,2.4,Ground,Normal,Guts,Bulletproof,Unnerve,Ordinary,No,550,"Ground,Normal",2,"Bulletproof,Guts",2
+Basculegion Male,8,110.0,3.0,Water,Ghost,Swift Swim,Adaptability,Mold Breaker,Ordinary,No,530,"Ghost,Water",2,"Adaptability,Swift Swim",2
+Basculegion Felame,8,110.0,3.0,Water,Ghost,Swift Swim,Adaptability,Mold Breaker,Ordinary,No,530,"Ghost,Water",2,"Adaptability,Swift Swim",2
+Sneasler,8,43.0,1.3,Fighting,Poison,Pressure,Unburden,Poison Touch,Ordinary,No,510,"Fighting,Poison",2,"Pressure,Unburden",2
+Overqwil,8,60.5,2.5,Dark,Poison,Poison Point,Swift Swim,Intimidate,Ordinary,No,510,"Dark,Poison",2,"Poison Point,Swift Swim",2
+Enamorus Incarnate Style,8,48.0,1.6,Fairy,Flying,Cute Charm,,Contrary,Semi-Legendary,No,580,"Fairy,Flying",2,Cute Charm,1
+Enamorus Therian Style,8,48.0,1.6,Fairy,Flying,Overcoat,,No,Semi-Legendary,No,580,"Fairy,Flying",2,Overcoat,1
+Sprigatito,9,4.1,0.4,Grass,,Overgrow,,Protean,Ordinary,No,310,No,1,Overgrow,1
+Floragato,9,12.2,0.9,Grass,,Overgrow,,Protean,Ordinary,No,410,No,1,Overgrow,1
+Meowscarada,9,31.2,1.5,Grass,Dark,Overgrow,,Protean,Ordinary,No,530,"Dark,Grass",2,Overgrow,1
+Fuecoco,9,9.8,0.4,Fire,,Blaze,,Unaware,Ordinary,No,310,No,1,Blaze,1
+Crocalor,9,30.7,1.0,Fire,,Blaze,,Unaware,Ordinary,No,411,No,1,Blaze,1
+Skeledirge,9,326.5,1.6,Fire,Ghost,Blaze,,Unaware,Ordinary,No,530,"Fire,Ghost",2,Blaze,1
+Quaxly,9,6.1,0.5,Water,,Torrent,,Moxie,Ordinary,No,310,No,1,Torrent,1
+Quaxwell,9,21.5,1.2,Water,,Torrent,,Moxie,Ordinary,No,410,No,1,Torrent,1
+Quaquaval,9,61.9,1.8,Water,Fighting,Torrent,,Moxie,Ordinary,No,530,"Fighting,Water",2,Torrent,1
+Lechonk,9,10.2,0.5,Normal,,Aroma Veil,Gluttony,Thick Fat,Ordinary,No,254,No,1,"Aroma Veil,Gluttony",2
+Oinkologne,9,120.0,1.0,Normal,,Lingering Aroma,Gluttony,Thick Fat,Ordinary,No,489,No,1,"Gluttony,Lingering Aroma",2
+Oinkologne,9,120.0,1.0,Normal,,Aroma Veil,Gluttony,Thick Fat,Ordinary,No,489,No,1,"Aroma Veil,Gluttony",2
+Tarountula,9,4.0,0.3,Bug,,Insomnia,,Stakeout,Ordinary,No,210,No,1,Insomnia,1
+Spidops,9,16.5,1.0,Bug,,Insomnia,,Stakeout,Ordinary,No,404,No,1,Insomnia,1
+Nymble,9,1.0,0.2,Bug,,Swarm,,Tinted Lens,Ordinary,No,210,No,1,Swarm,1
+Lokix,9,17.5,1.0,Bug,Dark,Swarm,,Tinted Lens,Ordinary,No,450,"Bug,Dark",2,Swarm,1
+Pawmi,9,2.5,0.3,Electric,,Static,Natural Cure,Iron Fist,Ordinary,No,240,No,1,"Natural Cure,Static",2
+Pawmo,9,6.5,0.4,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,Ordinary,No,350,"Electric,Fighting",2,"Natural Cure,Volt Absorb",2
+Pawmot,9,41.0,0.9,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,Ordinary,No,490,"Electric,Fighting",2,"Natural Cure,Volt Absorb",2
+Tandemaus,9,1.8,0.3,Normal,,Run Away,Pickup,Own Tempo,Ordinary,No,305,No,1,"Pickup,Run Away",2
+Maushold Family of Three,9,2.3,0.3,Normal,,Friend Guard,Cheek Pouch,Technician,Ordinary,No,470,No,1,"Cheek Pouch,Friend Guard",2
+Maushold Family of Four,9,2.8,0.3,Normal,,Friend Guard,Cheek Pouch,Technician,Ordinary,No,470,No,1,"Cheek Pouch,Friend Guard",2
+Fidough,9,10.9,0.3,Fairy,,Own Tempo,,Klutz,Ordinary,No,312,No,1,Own Tempo,1
+Dachsbun,9,14.9,0.5,Fairy,,Well-Baked Body,,Aroma Veil,Ordinary,No,477,No,1,Well-Baked Body,1
+Smoliv,9,6.5,0.3,Grass,Normal,Early Bird,,Harvest,Ordinary,No,260,"Grass,Normal",2,Early Bird,1
+Dolliv,9,11.9,0.6,Grass,Normal,Early Bird,,Harvest,Ordinary,No,354,"Grass,Normal",2,Early Bird,1
+Arboliva,9,48.2,1.4,Grass,Normal,Seed Sower,,Harvest,Ordinary,No,510,"Grass,Normal",2,Seed Sower,1
+Squawkabilly Green Plumage,9,2.4,0.6,Normal,Flying,Intimidate,Guts,Guts,Ordinary,No,417,"Flying,Normal",2,"Guts,Intimidate",2
+Squawkabilly Blue Plumage,9,2.4,0.6,Normal,Flying,Intimidate,Guts,Guts,Ordinary,No,417,"Flying,Normal",2,"Guts,Intimidate",2
+Squawkabilly Yellow Plumage,9,2.4,0.6,Normal,Flying,Intimidate,Guts,Sheer Force,Ordinary,No,417,"Flying,Normal",2,"Guts,Intimidate",2
+Squawkabilly White Plumage,9,2.4,0.6,Normal,Flying,Intimidate,Guts,Sheer Force,Ordinary,No,417,"Flying,Normal",2,"Guts,Intimidate",2
+Nacli,9,16.0,0.4,Rock,,Purifying Salt,Sturdy,Clear Body,Ordinary,No,280,No,1,"Purifying Salt,Sturdy",2
+Naclstack,9,105.0,0.6,Rock,,Purifying Salt,Sturdy,Clear Body,Ordinary,No,355,No,1,"Purifying Salt,Sturdy",2
+Garganacl,9,240.0,2.3,Rock,,Purifying Salt,Sturdy,Clear Body,Ordinary,No,500,No,1,"Purifying Salt,Sturdy",2
+Charcadet,9,10.5,0.6,Fire,,Flash Fire,,Flame Body,Ordinary,No,255,No,1,Flash Fire,1
+Armarouge,9,85.0,1.5,Fire,Psychic,Flash Fire,,Weak Armor,Ordinary,No,525,"Fire,Psychic",2,Flash Fire,1
+Ceruledge,9,62.0,1.6,Fire,Ghost,Flash Fire,,Weak Armor,Ordinary,No,525,"Fire,Ghost",2,Flash Fire,1
+Tadbulb,9,0.4,0.3,Electric,,Own Tempo,Static,Damp,Ordinary,No,272,No,1,"Own Tempo,Static",2
+Bellibolt,9,113.0,1.2,Electric,,Electromorphosis,Static,Damp,Ordinary,No,495,No,1,"Electromorphosis,Static",2
+Wattrel,9,3.6,0.4,Electric,Flying,Wind Power,Volt Absorb,Competitive,Ordinary,No,280,"Electric,Flying",2,"Volt Absorb,Wind Power",2
+Kilowattrel,9,38.6,1.4,Electric,Flying,Wind Power,Volt Absorb,Competitive,Ordinary,No,490,"Electric,Flying",2,"Volt Absorb,Wind Power",2
+Maschiff,9,16.0,0.5,Dark,,Intimidate,Run Away,Stakeout,Ordinary,No,340,No,1,"Intimidate,Run Away",2
+Mabosstiff,9,61.0,1.1,Dark,,Intimidate,Guard Dog,Stakeout,Ordinary,No,505,No,1,"Guard Dog,Intimidate",2
+Shroodle,9,0.7,0.2,Poison,Normal,Unburden,Pickpocket,Prankster,Ordinary,No,290,"Normal,Poison",2,"Pickpocket,Unburden",2
+Grafaiai,9,27.2,0.7,Poison,Normal,Unburden,Poison Touch,Prankster,Ordinary,No,485,"Normal,Poison",2,"Poison Touch,Unburden",2
+Bramblin,9,0.6,0.6,Grass,Ghost,Wind Rider,,Infiltrator,Ordinary,No,275,"Ghost,Grass",2,Wind Rider,1
+Brambleghast,9,6.0,1.2,Grass,Ghost,Wind Rider,,Infiltrator,Ordinary,No,480,"Ghost,Grass",2,Wind Rider,1
+Toedscool,9,33.0,0.9,Ground,Grass,Mycelium Might,,No,Ordinary,No,335,"Grass,Ground",2,Mycelium Might,1
+Toedscruel,9,58.0,1.9,Ground,Grass,Mycelium Might,,No,Ordinary,No,515,"Grass,Ground",2,Mycelium Might,1
+Klawf,9,79.0,1.3,Rock,,Anger Shell,Shell Armor,Regenerator,Ordinary,No,450,No,1,"Anger Shell,Shell Armor",2
+Capsakid,9,3.0,0.3,Grass,,Chlorophyll,Insomnia,Klutz,Ordinary,No,304,No,1,"Chlorophyll,Insomnia",2
+Scovillain,9,15.0,0.9,Grass,Fire,Chlorophyll,Insomnia,Moody,Ordinary,No,486,"Fire,Grass",2,"Chlorophyll,Insomnia",2
+Rellor,9,1.0,0.2,Bug,,Compound Eyes,,Shed Skin,Ordinary,No,270,No,1,Compound Eyes,1
+Rabsca,9,3.5,0.3,Bug,Psychic,Synchronize,,Telepathy,Ordinary,No,470,"Bug,Psychic",2,Synchronize,1
+Flittle,9,1.5,0.2,Psychic,,Anticipation,Frisk,Speed Boost,Ordinary,No,255,No,1,"Anticipation,Frisk",2
+Espathra,9,90.0,1.9,Psychic,,Opportunist,Frisk,Speed Boost,Ordinary,No,481,No,1,"Frisk,Opportunist",2
+Tinkatink,9,8.9,0.4,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,Ordinary,No,297,"Fairy,Steel",2,"Mold Breaker,Own Tempo",2
+Tinkatuff,9,59.1,0.7,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,Ordinary,No,380,"Fairy,Steel",2,"Mold Breaker,Own Tempo",2
+Tinkaton,9,112.8,0.7,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,Ordinary,No,506,"Fairy,Steel",2,"Mold Breaker,Own Tempo",2
+Wiglett,9,1.8,1.2,Water,,Gooey,Rattled,Sand Veil,Ordinary,No,245,No,1,"Gooey,Rattled",2
+Wugtrio,9,5.4,1.2,Water,,Gooey,Rattled,Sand Veil,Ordinary,No,425,No,1,"Gooey,Rattled",2
+Bombirdier,9,42.9,1.5,Flying,Dark,Big Pecks,Keen Eye,Rocky Payload,Ordinary,No,485,"Dark,Flying",2,"Big Pecks,Keen Eye",2
+Finizen,9,60.2,1.3,Water,,Water Veil,,No,Ordinary,No,315,No,1,Water Veil,1
+Palafin Zero Form,9,60.2,1.3,Water,,Zero to Hero,,No,Ordinary,No,457,No,1,Zero to Hero,1
+Palafin Hero Form,9,97.4,1.8,Water,,Zero to Hero,,No,Ordinary,No,650,No,1,Zero to Hero,1
+Varoom,9,35.0,1.0,Steel,Poison,Overcoat,,Slow Start,Ordinary,No,300,"Poison,Steel",2,Overcoat,1
+Revavroom,9,120.0,1.8,Steel,Poison,Overcoat,,Filter,Ordinary,No,500,"Poison,Steel",2,Overcoat,1
+Cyclizar,9,63.0,1.6,Dragon,Normal,Shed Skin,,Regenerator,Ordinary,No,501,"Dragon,Normal",2,Shed Skin,1
+Orthworm,9,310.0,2.5,Steel,,Earth Eater,,Sand Veil,Ordinary,No,480,No,1,Earth Eater,1
+Glimmet,9,8.0,0.7,Rock,Poison,Toxic Debris,,Corrosion,Ordinary,No,350,"Poison,Rock",2,Toxic Debris,1
+Glimmora,9,45.0,1.5,Rock,Poison,Toxic Debris,,Corrosion,Ordinary,No,525,"Poison,Rock",2,Toxic Debris,1
+Greavard,9,35.0,0.6,Ghost,,Pickup,,Fluffy,Ordinary,No,290,No,1,Pickup,1
+Houndstone,9,15.0,2.0,Ghost,,Sand Rush,,Fluffy,Ordinary,No,488,No,1,Sand Rush,1
+Flamigo,9,37.0,1.6,Flying,Fighting,Scrappy,Tangled Feet,Costar,Ordinary,No,500,"Fighting,Flying",2,"Scrappy,Tangled Feet",2
+Cetoddle,9,45.0,1.2,Ice,,Thick Fat,Snow Cloak,Sheer Force,Ordinary,No,334,No,1,"Snow Cloak,Thick Fat",2
+Cetitan,9,700.0,4.5,Ice,,Thick Fat,Slush Rush,Sheer Force,Ordinary,No,521,No,1,"Slush Rush,Thick Fat",2
+Veluza,9,90.0,2.5,Water,Psychic,Mold Breaker,,Sharpness,Ordinary,No,478,"Psychic,Water",2,Mold Breaker,1
+Dondozo,9,220.0,12.0,Water,,Unaware,Oblivious,Water Veil,Ordinary,No,530,No,1,"Oblivious,Unaware",2
+Tatsugiri Curly Form,9,8.0,0.3,Dragon,Water,Commander,,Storm Drain,Ordinary,No,475,"Dragon,Water",2,Commander,1
+Tatsugiri Droopy Form,9,8.0,0.3,Dragon,Water,Commander,,Storm Drain,Ordinary,No,475,"Dragon,Water",2,Commander,1
+Tatsugiri Stretchy Form,9,8.0,0.3,Dragon,Water,Commander,,Storm Drain,Ordinary,No,475,"Dragon,Water",2,Commander,1
+Annihilape,9,56.0,1.2,Fighting,Ghost,Vital Spirit,Inner Focus,Defiant,Ordinary,No,535,"Fighting,Ghost",2,"Inner Focus,Vital Spirit",2
+Clodsire,9,223.0,1.8,Poison,Ground,Poison Point,Water Absorb,Unaware,Ordinary,No,430,"Ground,Poison",2,"Poison Point,Water Absorb",2
+Farigiraf,9,160.0,3.2,Normal,Psychic,Cud Chew,Armor Tail,Sap Sipper,Ordinary,No,520,"Normal,Psychic",2,"Armor Tail,Cud Chew",2
+Dudunsparce Two-Segment Form,9,39.2,3.6,Normal,,Serene Grace,Run Away,Rattled,Ordinary,No,520,No,1,"Run Away,Serene Grace",2
+Dudunsparce Three-Segment Form,9,47.4,4.5,Normal,,Serene Grace,Run Away,Rattled,Ordinary,No,520,No,1,"Run Away,Serene Grace",2
+Kingambit,9,120.0,2.0,Dark,Steel,Defiant,Supreme Overlord,Pressure,Ordinary,No,550,"Dark,Steel",2,"Defiant,Supreme Overlord",2
+Great Tusk,9,320.0,2.2,Ground,Fighting,Protosynthesis,,No,Semi-Legendary,No,570,"Fighting,Ground",2,Protosynthesis,1
+Scream Tail,9,8.0,1.2,Fairy,Psychic,Protosynthesis,,No,Semi-Legendary,No,570,"Fairy,Psychic",2,Protosynthesis,1
+Brute Bonnet,9,21.0,1.2,Grass,Dark,Protosynthesis,,No,Semi-Legendary,No,570,"Dark,Grass",2,Protosynthesis,1
+Flutter Mane,9,4.0,1.4,Ghost,Fairy,Protosynthesis,,No,Semi-Legendary,No,570,"Fairy,Ghost",2,Protosynthesis,1
+Slither Wing,9,92.0,3.2,Bug,Fighting,Protosynthesis,,No,Semi-Legendary,No,570,"Bug,Fighting",2,Protosynthesis,1
+Sandy Shocks,9,60.0,2.3,Electric,Ground,Protosynthesis,,No,Semi-Legendary,No,570,"Electric,Ground",2,Protosynthesis,1
+Iron Treads,9,240.0,0.9,Ground,Steel,Quark Drive,,No,Semi-Legendary,No,570,"Ground,Steel",2,Quark Drive,1
+Iron Bundle,9,11.0,0.6,Ice,Water,Quark Drive,,No,Semi-Legendary,No,570,"Ice,Water",2,Quark Drive,1
+Iron Hands,9,380.7,1.8,Fighting,Electric,Quark Drive,,No,Semi-Legendary,No,570,"Electric,Fighting",2,Quark Drive,1
+Iron Jugulis,9,111.0,1.3,Dark,Flying,Quark Drive,,No,Semi-Legendary,No,570,"Dark,Flying",2,Quark Drive,1
+Iron Moth,9,36.0,1.2,Fire,Poison,Quark Drive,,No,Semi-Legendary,No,570,"Fire,Poison",2,Quark Drive,1
+Iron Thorns,9,303.0,1.6,Rock,Electric,Quark Drive,,No,Semi-Legendary,No,570,"Electric,Rock",2,Quark Drive,1
+Frigibax,9,17.0,0.5,Dragon,Ice,Thermal Exchange,,Ice Body,Ordinary,No,320,"Dragon,Ice",2,Thermal Exchange,1
+Arctibax,9,30.0,0.8,Dragon,Ice,Thermal Exchange,,Ice Body,Ordinary,No,423,"Dragon,Ice",2,Thermal Exchange,1
+Baxcalibur,9,210.0,2.1,Dragon,Ice,Thermal Exchange,,Ice Body,Ordinary,No,600,"Dragon,Ice",2,Thermal Exchange,1
+Gimmighoul Chest Form,9,5.0,0.3,Ghost,,Rattled,,No,Ordinary,No,300,No,1,Rattled,1
+Gimmighoul Roaming Form,9,0.1,0.1,Ghost,,Run Away,,No,Ordinary,No,300,No,1,Run Away,1
+Gholdengo,9,30.0,1.2,Steel,Ghost,Good as Gold,,No,Ordinary,No,550,"Ghost,Steel",2,Good as Gold,1
+Wo-Chien,9,74.2,1.5,Dark,Grass,Tablets of Ruin,,No,Semi-Legendary,No,570,"Dark,Grass",2,Tablets of Ruin,1
+Chien-Pao,9,152.2,1.9,Dark,Ice,Sword of Ruin,,No,Semi-Legendary,No,570,"Dark,Ice",2,Sword of Ruin,1
+Ting-Lu,9,699.7,2.7,Dark,Ground,Vessel of Ruin,,No,Semi-Legendary,No,570,"Dark,Ground",2,Vessel of Ruin,1
+Chi-Yu,9,4.9,0.4,Dark,Fire,Beads of Ruin,,No,Semi-Legendary,No,570,"Dark,Fire",2,Beads of Ruin,1
+Roaring Moon,9,380.0,2.0,Dragon,Dark,Protosynthesis,,No,Semi-Legendary,No,590,"Dark,Dragon",2,Protosynthesis,1
+Iron Valiant,9,35.0,1.4,Fairy,Fighting,Quark Drive,,No,Semi-Legendary,No,590,"Fairy,Fighting",2,Quark Drive,1
+Koraidon,9,303.0,2.5,Fighting,Dragon,Orichalcum Pulse,,No,Legendary,No,670,"Dragon,Fighting",2,Orichalcum Pulse,1
+Miraidon,9,240.0,3.5,Electric,Dragon,Hadron Engine,,No,Legendary,No,670,"Dragon,Electric",2,Hadron Engine,1
+Walking Wake,9,280.0,3.5,Water,Dragon,Protosynthesis,,No,Semi-Legendary,No,590,"Dragon,Water",2,Protosynthesis,1
+Iron Leaves,9,125.0,1.5,Grass,Psychic,Quark Drive,,No,Semi-Legendary,No,590,"Grass,Psychic",2,Quark Drive,1
