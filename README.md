@@ -32,3 +32,9 @@ Starting from `pokemon.csv`, a focused subset of columns (`Name`, `Generation`, 
 * **How many Mega Evolutions are there?** **48** Mega entries across the dataset
 * **How many unique hidden abilities are there?** **163** unique hidden abilities, led by **Telepathy** (24), **Sheer Force** (22), and **Regenerator** (20)
 ---
+
+## Dashboard Image
+<img width="1057" height="596" alt="image" src="https://github.com/user-attachments/assets/9f038a61-17aa-49d5-85cb-666c5aa4abc4" />
+
+## Dataset Credits and Link
+https://www.kaggle.com/datasets/takamasakato/pokemon-all-status-data
