@@ -34,7 +34,7 @@ Starting from `pokemon.csv`, a focused subset of columns (`Name`, `Generation`, 
 ---
 
 ## Dashboard Image
-<img width="1057" height="596" alt="image" src="https://github.com/user-attachments/assets/9f038a61-17aa-49d5-85cb-666c5aa4abc4" />
+<img width="1057" height="592" alt="image" src="https://github.com/user-attachments/assets/258b3bf0-855c-4b4f-ad55-b07354d6ea96" />
 
 ## Dataset Credits and Link
 https://www.kaggle.com/datasets/takamasakato/pokemon-all-status-data
